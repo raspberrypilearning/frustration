@@ -1,7 +1,8 @@
+---
 title: Frustration
 hero_image: images/banner.png
 theme: red
-duration: 1
+duration: 2
 listed: true
 ingredient: false
 copyedit: false
@@ -14,7 +15,7 @@ site_areas: codeclub, microbit
 steps:
 - title: Introduction
 - title: Storing fails
-- title: "Challenge: Display an image"
+- title: 'Challenge: Display an image'
 - title: Keeping track of fails
 - title: Building your game
 - title: 'Challenge: Cheat mode!'
