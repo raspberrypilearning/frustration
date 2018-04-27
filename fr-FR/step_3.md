@@ -1,5 +1,5 @@
 --- challenge ---
-## Défi& : Afficher une image
+## Défi : Afficher une image
 
 Sauras-tu afficher une image pendant 1 seconde (1000ms) avant que le nombre d'`échecs` soit affiché&nbsp;?
 
