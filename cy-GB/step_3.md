@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: Display an image
+## Her: Arddangos delwedd
 
-Can you display an image for 1 second (1000ms) before the number of `fails` are displayed?
+Allwch chi arddangos delwedd am 1 eiliad (1000ms) cyn i nifer y `methiannau` gael eu harddangos?
 
-![screenshot](images/frustration-start-img.png)
+![sgrinlun](images/frustration-start-img.png)
 
-You'll need to use the following blocks from Basic do to this:
+Bydd angen i chi ddefnyddio'r blociau canlynol o Basic (Sylfaenol) i wneud hyn:
 
-![screenshot](images/frustration-blocks.png)
+![sgrinlun](images/frustration-blocks.png)
 
-![screenshot](images/frustration-blocks2.png)
+![sgrinlun](images/frustration-blocks2.png)
 
 \--- /challenge \---
