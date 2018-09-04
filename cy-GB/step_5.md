@@ -1,35 +1,35 @@
-## Building your game
+## Adeiladu eich gêm
 
-Now that you've coded your game, let's put it all together!
+Nawr eich bod wedi codio eich gêm, gadewch i ni ei roi i gyd gyda'i gilydd!
 
-+ First, let's make your wand. Take a piece of wire about 20cm long and bend it in half, making a loop at the top.
++ Yn gyntaf, gadewch i ni wneud eich hudlath. Cymerwch ddarn o wifren tua 20cm o hyd a'i blygu yn ei hanner, gan wneud dolen ar y brig.
 
-![screenshot](images/frustration-wand-bend.png)
+![sgrinlun](images/frustration-wand-bend.png)
 
-+ You can then twist the two pieces of wire together.
++ Gallwch chi wedyn droi'r ddau ddarn o wifren gyda'i gilydd.
 
-![screenshot](images/frustration-wand-twist.png)
+![sgrinlun](images/frustration-wand-twist.png)
 
-+ To make the course, take another piece of wire about 30cm long and bend the middle part of the wire into shape. You should bend up one end of the course.
++ I wneud y cwrs, cymerwch ddarn arall o wifren tua 30cm o hyd a phlygu rhan ganol y wifren i siâp. Dylech blygu un pen o'r cwrs i fyny.
 
-![screenshot](images/frustration-course-bend.png)
+![sgrinlun](images/frustration-course-bend.png)
 
-+ If you have some electrical tape, wrap some around the two ends of the wire, leaving some exposed metal at both ends.
++ Os oes gennych rywfaint o dâp trydan, lapiwch ychydig o amgylch dau ben y wifren, gan adael rhywfaint o fetel agored ar y ddau ben.
 
-![screenshot](images/frustration-course-tape.png)
+![sgrinlun](images/frustration-course-tape.png)
 
-+ Slide your wand through your course, and push the ends of your wire into some putty to stand it up.
++ Llithrwch eich hudlath trwy'ch cwrs, a gwthiwch bennau'ch gwifren i mewn i bwti i'w gael i sefyll.
 
-![screenshot](images/frustration-course-putty.png)
+![sgrinlun](images/frustration-course-putty.png)
 
-+ You can now connect your game to your micro:bit using a crocodile clip lead or some wire. Firstly, connect the ground pin (GND) to one end of your course.
++ Gallwch nawr gysylltu eich gêm at â'ch micro:bit gan ddefnyddio gwifren glip crocodeil neu ychydig o wifren. Yn gyntaf, cysylltwch y pin daear (GND) i un pen o'ch cwrs.
 
-![screenshot](images/frustration-gnd-connect.png)
+![sgrinlun](images/frustration-gnd-connect.png)
 
-+ You can then connect Pin 0 to your wand.
++ Yna gallwch chi gysylltu Pin 0 â'ch hudlath.
 
-![screenshot](images/frustration-pin0-connect.png)
+![sgrinlun](images/frustration-pin0-connect.png)
 
-+ Test your game. Press button A and your score should be set to 0. Each time your wand touches the course, the circuit is completed and your micro:bit should add 1 to your number of fails.
++ Profwch eich gêm. Gwasgwch fotwm A a dylai eich sgôr gael ei osod i 0. Pob tro mae'ch hudlath yn cyffwrdd â'r cwrs, cwblheir y cylched a dylai eich micro:bit ychwanegu 1 at nifer eich methiannau.
 
-![screenshot](images/frustration-final.png)
+![sgrinlun](images/frustration-final.png)
