@@ -1,0 +1,26 @@
+---
+title: Rhwystredigaeth
+hero_image: images/frustration.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+description: Arweiniwch hudlath ar hyd cwrs heb wneud cyswllt.
+original_url: https://codeclubprojects.org/en-GB/microbit/frustration
+interests: games
+technologies: microbit
+site_areas: projects
+hardware: microbit
+software: ''
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Cyflwyniad
+  - title: Storio methiannau
+  - title: 'Her: Dangos delwedd'
+  - title: Cadw cofnod o fethiannau
+  - title: Adeiladu eich gêm
+  - title: 'Her: Modd twyllo!'
+  - title: 'Her: Personoli''ch gêm'
