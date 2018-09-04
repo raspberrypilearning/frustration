@@ -8,7 +8,7 @@ Gadewch i ni ddechrau trwy greu lle i storio nifer y methiannau.
 
 ![sgrinlun](images/frustration-bin.png)
 
-+ Dylai gêm newydd ddechrau pan fydd y chwaraewr yn gwasgu botwm A. Cliciwch 'Input' (Mewnbwn) ac yna ` on button A pressed ` (pan wasgir botwm A).
++ Dylai gêm newydd ddechrau pan fydd y chwaraewr yn gwasgu botwm A. Cliciwch 'Input' (Mewnbwn) ac yna `on button A pressed` (pan wasgir botwm A).
 
 ![sgrinlun](images/frustration-onPressA.png)
 
