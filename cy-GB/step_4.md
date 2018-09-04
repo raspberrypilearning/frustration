@@ -1,27 +1,27 @@
-## Keeping track of fails
+## Cadw cofnod o fethiannau
 
-Let's add code to keep track of fails.
+Gadewch i ni ychwanegu cod i gadw golwg ar fethiannau.
 
-+ You're going to add 1 to your `fails` variable every time a connection is made on Pin0. To do this, drag `on pin P0 pressed` from 'Input'.
++ Rydych chi'n mynd i ychwanegu 1 at eich newidyn `methiannau` bob tro y gwneir cysylltiad ar Pin0 I wneud hyn, llusgwch `on pin P0 pressed` (pan wasgir pin P0) o 'Input' (Mewnbwn).
 
-![screenshot](images/frustration-pressPin0.png)
+![sgrinlun](images/frustration-pressPin0.png)
 
-+ Next, add 2 blocks to display a cross for 1 second when Pin0 is pressed.
++ Nesaf, ychwanegwch 2 floc i arddangos croes ar gyfer 1 eiliad pan fo Pin0 yn cael ei wasgu.
 
-![screenshot](images/frustration-pin0-x.png)
+![sgrinlun](images/frustration-pin0-x.png)
 
-+ You'll then need to add 1 to your `fails` variable. To do this, click the drag a `change item by 1` from Variables and change `item` to `fail`. 
++ Yna bydd angen i chi ychwanegu 1 at eich newidyn `methiannau`. I wneud hyn, cliciwch ar lusgo `change item by 1` (eitem newid erbyn 1) o Newidynnau a newid `eitem` i `fethu`. 
 
-![screenshot](images/frustration-pin0-fails.png)
+![sgrinlun](images/frustration-pin0-fails.png)
 
-+ Finally, you can add code to display the updated number of fails. Here's how your code should look.
++ Yn olaf, gallwch ychwanegu cod i ddangos nifer y methiannau wedi'i ddiweddaru. Dyma sut y dylai eich cod ymddangos.
 
-![screenshot](images/frustration-pin0-code.png)
+![sgrinlun](images/frustration-pin0-code.png)
 
-+ Test your code by pressing button A on the emulator to start your game. Each time you press Pin0 you should see your `fails` variable increase by 1.
++ Profwch eich cod trwy wasgu botwm A ar yr efelychydd i gychwyn eich gêm. Pob tro y byddwch chi'n gwasgu Pin0, dylech weld eich newidyn `methu` yn cynyddu o 1.
 
-![screenshot](images/frustration-pin0-test.png)
+![sgrinlun](images/frustration-pin0-test.png)
 
-+ Click 'Download' and transfer your script onto your micro:bit. You can press Pin0 by completing a circuit. To do this, place your right thumb on the ground pin (GND) and then tap Pin0 with your left thumb.
++ Cliciwch 'Download' (Lawrlwytho) a throsglwyddwch eich sgript ar eich micro:bit. Gallwch wasgu Pin0 trwy gwblhau cylched. I wneud hyn, rhowch eich bawd de ar y pin daear (GND) ac yna tapiwch Pin0 gyda'ch bawd chwith.
 
-![screenshot](images/frustration-pin0-compile.png)
+![sgrinlun](images/frustration-pin0-compile.png)
