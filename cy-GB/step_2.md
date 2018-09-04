@@ -1,35 +1,35 @@
-## Storing fails
+## Storio methiannau
 
-Let's start by creating a place to store the number of fails.
+Gadewch i ni ddechrau trwy greu lle i storio nifer y methiannau.
 
-+ Go to <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Frustration'.
++ Ewch i <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> i ddechrau prosiect newydd yn y golygydd MakeCode (PXT). Galwch eich prosiect newydd yn 'Frustration'.
 
-+ Delete the `forever` and `start` blocks by dragging them to the palette:
++ Dilëwch y blociau `forever` (am byth) a `start` (dechrau) trwy eu llusgo i'r palet:
 
-![screenshot](images/frustration-bin.png)
+![sgrinlun](images/frustration-bin.png)
 
-+ A new game should start when the player presses button A. Click 'Input' and then `on button A pressed`.
++ Dylai gêm newydd ddechrau pan fydd y chwaraewr yn gwasgu botwm A. Cliciwch 'Input' (Mewnbwn) ac yna ` on button A pressed ` (pan wasgir botwm A).
 
-![screenshot](images/frustration-onPressA.png)
+![sgrinlun](images/frustration-onPressA.png)
 
-+ Now you need a variable to store the number of times you fail in the game by touching the wire with the wand. Click on 'Variables' and then 'Make a new Variable'. Name the variable `fails`.
++ Nawr mae angen newidyn arnoch i gadw'r nifer o weithiau y byddwch chi'n methu yn y gêm trwy gyffwrdd â'r wifren â'r hudlath. Cliciwch ar 'Variables' (Newidynnau) ac yna 'Make a new Variable' (Gwneud Newidyn Newydd). Enwch y newidyn yn `methiannau`.
 
-![screenshot](images/frustration-variable.png)
+![sgrinlun](images/frustration-variable.png)
 
-+ Drag a `set` block from 'Variables' and select `fails`:
++ Llusgwch floc `set` o 'Variables' (Newidynnau) a dewis `methiannau`:
 
-![screenshot](images/frustration-fails.png)
+![sgrinlun](images/frustration-fails.png)
 
-This will set the number of fails to zero when you press the A button.
+Bydd hyn yn gosod nifer y methiannau i ddim pan fyddwch yn gwasgu botwm A.
 
-+ Finally, you can display the number of `fails` on your micro:bit. To do this, first drag a `show number` block from 'Basic' to the end of your script.
++ Yn olaf, gallwch ddangos y nifer y `methiannau` ar eich micro:bit. I wneud hyn, yn gyntaf llusgwch floc `show number` (dangos nifer) o 'Basic' (Sylfaenol) i ddiwedd eich sgript.
 
-![screenshot](images/frustration-show.png)
+![sgrinlun](images/frustration-show.png)
 
-+ Then drag `fails` from 'Variables' into your `set block`.
++ Yna llusgwch `methiannau` o 'Variables' (Newidynnau) i mewn i'ch `set block` (bloc gosod).
 
-![screenshot](images/frustration-show-fails.png)
+![sgrinlun](images/frustration-show-fails.png)
 
-+ Click 'run' to test your script. Clicking button A should display the number of fails, which has been set to `0`.
++ Cliciwch 'run' (rhedeg) i brofi eich sgript. Dylai glicio botwm A arddangos nifer y methiannau, sydd wedi'u gosod i `0`.
 
-![screenshot](images/frustration-fails-test.png)
+![sgrinlun](images/frustration-fails-test.png)
