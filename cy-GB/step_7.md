@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Personalise your game
+## Her: Personoli'ch gêm
 
-Get some friends to try out your game. If your game is too easy, you can make it harder by:
+Cael ffrindiau i roi cynnig ar eich gêm. Os yw'ch gêm yn rhy hawdd, gallwch ei gwneud yn anoddach trwy:
 
-- Creating a longer course;
-- Adding more bends to your course;
-- Making a wand with a smaller gap.
+- Greu cwrs hirach;
+- Ychwanegu mwy o droadau i'ch cwrs;
+- Gwneud hudlath â llai o fwlch.
 
 \--- /challenge \---
