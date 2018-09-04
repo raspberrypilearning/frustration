@@ -1,77 +1,77 @@
-## Introduction
+## Cyflwyniad
 
-You are going to make a game in which players have to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins!
+Rydych chi am wneud gêm lle mae'n rhaid i chwaraewyr arwain hudlath ar hyd cwrs heb wneud cyswllt. Bydd gwneud cyswllt yn ychwanegu un i sgôr y chwaraewr – mae'r chwaraewr gyda'r sgôr isaf yn ennill!
 
-**Instructions**: If you're reading this online, press **A** on the micro:bit below to start the game, and then touch pin **0** to make a connection.
+**Cyfarwyddiadau**: Os ydych yn darllen hwn ar-lein, gwasgwch **A** ar y micro:bit isod i gychwyn y gêm, ac yna cyffwrdd â'r pin **0** i wneud cysylltiad.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=71088-38400-20107-39742" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-For this project you'll need some additional items:
+Ar gyfer y prosiect hwn bydd angen rhai eitemau ychwanegol arnoch chi:
 
-* Metal wire (approx. 50cm);
-* Modelling clay (Plasticine or similar, needs to be non-conductive);
-* Electrical tape (optional);
-* Crocodile clip leads (optional).
+* Gwifren fetel (tua 50cm);
+* Clai modelu (plastisin neu debyg, mae angen iddo beidio â bod yn ddargludol);
+* Tâp trydanol (dewisol);
+* Gwifrennau clip crocodeil (dewisol).
 
-![screenshot](images/frustration-items.png)
+![sgrinlun](images/frustration-items.png)
 
-### Additional information for club leaders
+### Gwybodaeth ychwanegol ar gyfer arweinwyr clwb
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/frustration/print).
+Os oes angen i chi argraffu'r prosiect hwn, defnyddiwch y fersiwn [hwylus i'w argraffu](https://projects.raspberrypi.org/en/projects/frustration/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Nodiadau arweinwyr clwb
 
-## Introduction:
+## Cyflwyniad:
 
-In this project, children will learn how to use variables in making a wire-following game. The aim of the game is to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins.
+Yn y prosiect hwn, bydd y plant yn dysgu sut i ddefnyddio newidynnau wrth wneud gêm dilyn gwifren. Nod y gêm yw arwain hudlath ar hyd cwrs heb gysylltu. Bydd gwneud cyswllt yn ychwanegu un i sgôr y chwaraewr – mae'r chwaraewr gyda'r sgôr isaf yn ennill.
 
-## Resources
+## Adnoddau
 
-To complete this project, children will need:
+I gwblhau'r prosiect hwn, bydd angen y canlynol ar y plant:
 
-* Metal wire (approx. 50cm);
-* Putty;
-* Electrical tape (optional);
-* Crocodile leads (optional).
+* Gwifren fetel (tua 50cm);
+* Pwti;
+* Tâp trydanol (dewisol);
+* Gwifrennau clip crocodeil (dewisol).
 
-Steps 1 and 2 of this project can be completed without this equipment.
+Gellir cwblhau Camau 1 a 2 o'r prosiect hwn heb yr offer hwn.
 
-For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
+Ar gyfer y prosiect hwn, dylid defnyddio'r golygydd microbit [MakeCode (PXT)](http://jumpto.cc/pxt-new).
 
-You can find a completed version of this project at [makecode.microbit.org/#pub:71088-38400-20107-39742](https://makecode.microbit.org/#pub:71088-38400-20107-39742), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
+Gallwch ddod o hyd i fersiwn wedi'i gwblhau o'r prosiect hwn ar [makecode.microbit.org/#pub:71088-38400-20107-39742](https://makecode.microbit.org/#pub:71088-38400-20107-39742) , a gellir lawrlwytho'r ffeil .hex wrth glicio ar y ddolen 'Lawrlwytho Deunyddiau Prosiect' ar gyfer y prosiect hwn, sy'n cynnwys:
 
 * Frustration.hex
 
-## Learning Objectives
+## Amcanion Dysgu
 
-* Variables;
-* Input/output (I/O) pins.
+* Newidynnau;
+* Piniau mewnbwn / allbwn (I / O).
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Mae'r prosiect hwn yn cwmpasu elfennau o'r ffrydiau dilynol o'r [Cwricwlwm Creu Digidol Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Defnyddio lluniadau rhaglennu sylfaenol i greu rhaglenni syml.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Use basic digital, analogue, and electromechanical components.](https://www.raspberrypi.org/curriculum/physical-computing/creator)
+* [Defnyddio cydrannau digidol, analog, ac electrofecanyddol sylfaenol.](https://www.raspberrypi.org/curriculum/physical-computing/creator)
 
-## Challenges
+## Heriau
 
-* "Display an image" - Display an image on the micro:bit before the number of `fails` is displayed.
-* "Cheat mode!" - Subtract 1 from the `fails` variable when button B is pressed.
-* "Personalise your game" - Make changes to the wand and course in order to make the game more difficult.
+* 'Dangoswch ddelwedd' - Dangoswch ddelwedd ar y micro: bit cyn y bydd y nifer o `methiannau` yn cael eu harddangos.
+* 'Modd twyllo!' – Mae tynnu 1 o'r newidyn `methiannau` yn amrywio pan fo botwm B yn cael ei wasgu.
+* "Personoli'ch gêm" - Gwneud newidiadau i'r hudlath a chwrs er mwyn gwneud y gêm yn fwy anodd.
 
 \--- /collapse \---
 
-## \--- collapse \---
+## \---collapse\---
 
-## title: Project materials
+## title: Deunyddiau prosiect
 
-## Club leader resources
+## Adnoddau arweinwyr clwb
 
-* [online completed project](https://makecode.microbit.org/#pub:71088-38400-20107-39742)
-* [.hex project file to transfer onto your micro:bit](resources/micro-bit-Frustration.hex)
+* [prosiect wedi'i gwblhau ar-lein](https://makecode.microbit.org/#pub:71088-38400-20107-39742)
+* [ffeil prosiect.hex i'w throsglwyddo i'ch micro:bit](resources/micro-bit-Frustration.hex)
 
 \--- /collapse \---
