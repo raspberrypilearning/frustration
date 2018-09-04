@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Cheat mode!
+## Her: Modd twyllo!
 
-Can you add a cheat to your game, so that pressing button B reduces your score by 1?
+Allwch chi ychwanegu modd twyllo i'ch gêm, fel bod gwasgu botwm B yn lleihau eich sgôr o 1?
 
 \--- /challenge \---
