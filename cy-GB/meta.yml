@@ -1,33 +1,33 @@
 ---
-title: Frustration
+title: Rhwystredigaeth
 hero_image: images/frustration.png
-theme: turquoise
+theme: glaswyrdd
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-description: Guide a wand along a course without making contact.
+description: Arweiniwch hudlath ar hyd cwrs heb wneud cyswllt.
 original_url: https://codeclubprojects.org/en-GB/microbit/frustration
-interests: games
+interests: gemau
 technologies: microbit
-site_areas: projects
+site_areas: prosiectau
 hardware: microbit
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Cyflwyniad
   - 
-    title: Storing fails
+    title: Storio methiannau
   - 
-    title: 'Challenge: Display an image'
+    title: 'Her: Dangos delwedd'
   - 
-    title: Keeping track of fails
+    title: Cadw cofnod o fethiannau
   - 
-    title: Building your game
+    title: Adeiladu eich gêm
   - 
-    title: 'Challenge: Cheat mode!'
+    title: 'Her: Modd twyllo!'
   - 
-    title: 'Challenge: Personalise your game'
+    title: 'Her: Personoli''ch gêm'
