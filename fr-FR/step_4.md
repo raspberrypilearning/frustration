@@ -26,7 +26,7 @@ Ajoutons le code qui compte le nombre d'échecs.
 
 ![screenshot](images/frustration-pin0-test.png)
 
-+ Clique sur 'Télécharger' et transfère ton script sur ta micro:bit.
++ Clique sur 'Télécharger' et transfère ton script sur ton micro:bit.
   Tu peux appuyer sur la broche P0 en fermant le circuit.
   Pour cela, place ton pouce droit sur la masse (broche GND) et touche la broche P0 avec ton pouce gauche.
 

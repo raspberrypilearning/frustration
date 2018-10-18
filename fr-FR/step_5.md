@@ -25,7 +25,7 @@ Maintenant que tu as programmé ton jeu, assemblons tout ensemble&nbsp;!
 
 ![screenshot](images/frustration-course-putty.png)
 
-+ Tu peux brancher ton jeu à ta micro:bit en utilisant des pinces crocodiles.
++ Tu peux brancher ton jeu à ton micro:bit en utilisant des pinces crocodiles.
   Connecte d'abord la masse (broche GND) à l'une des extrémités du circuit.
 
 ![screenshot](images/frustration-gnd-connect.png)
@@ -36,6 +36,6 @@ Maintenant que tu as programmé ton jeu, assemblons tout ensemble&nbsp;!
 
 + Teste ton jeu.
   Appuie sur le bouton A et ton score sera remis à 0.
-  Chaque fois que ta baguette touche le circuit, le courant passe entre la baguette et le circuit et ta micro:bit ajoute 1 au nombre d'échecs.
+  Chaque fois que ta baguette touche le circuit, le courant passe entre la baguette et le circuit et ton micro:bit ajoute 1 au nombre d'échecs.
 
 ![screenshot](images/frustration-final.png)
