@@ -26,7 +26,7 @@ Commençons par créer un endroit où stocker le nombre d'échecs.
 
 Ceci mettra à zéro le nombre d'échecs quand on appuie sur le bouton A.
 
-+ Enfin, tu peux afficher le nombre d'`échecs` sur ta micro:bit.
++ Enfin, tu peux afficher le nombre d'`échecs` sur ton micro:bit.
   Pour cela, place un bloc `montrer nombre`, depuis 'Basique', à la fin du script.
 
 ![screenshot](images/frustration-show.png)
