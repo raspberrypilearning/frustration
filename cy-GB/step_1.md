@@ -5,7 +5,7 @@ Rydych chi am wneud gêm lle mae'n rhaid i chwaraewyr arwain hudlath ar hyd cwrs
 **Cyfarwyddiadau**: Os ydych yn darllen hwn ar-lein, gwasgwch **A** ar y micro:bit isod i gychwyn y gêm, ac yna cyffwrdd â'r pin **0** i wneud cysylltiad.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=71088-38400-20107-39742" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_FEDEdA3v6e64" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
 Ar gyfer y prosiect hwn bydd angen rhai eitemau ychwanegol arnoch chi:
