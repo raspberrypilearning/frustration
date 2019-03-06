@@ -4,7 +4,7 @@ Let's start by creating a place to store the number of fails.
 
 
 
-+ Go to <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Frustration'.
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Frustration'.
 
 + Delete the `forever` and `start` blocks by dragging them to the palette:
 
