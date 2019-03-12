@@ -1,0 +1,33 @@
+---
+title: निराशा
+hero_image: images/frustration.png
+theme: फ़िरोज़ी
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+description: संपर्क किए बिना रास्ते में एक छड़ी से मार्गदर्शन करें।
+original_url: https://codeclubprojects.org/en-GB/microbit/frustration
+interests: गेम
+technologies: microbit
+site_areas: प्रोजेक्ट
+hardware: microbit
+software: ''
+version: 3.0.1
+last_tested: 2019-03-06
+steps:
+  - 
+    title: परिचय
+  - 
+    title: विफलताएँ भंडारित करना
+  - 
+    title: 'चुनौती: एक छवि प्रदर्शित करें'
+  - 
+    title: विफलताओं का ट्रैक रखना
+  - 
+    title: अपनी गेम बनाना
+  - 
+    title: 'चुनौती: धोखाधड़ी मोड!'
+  - 
+    title: 'चुनौती: अपनी गेम को निजीकृत करें'
