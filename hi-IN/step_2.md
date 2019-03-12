@@ -2,7 +2,7 @@
 
 आइए विफलताओं की संख्या का भंडारण करने के लिए कोई जगह बनाकर शुरू करते हैं।
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. अपने नए प्रोजेक्ट का नाम 'निराशा' रखें।
++ MakeCode (PXT) संपादक में एक नया प्रोजेक्ट शुरू करने के लिए <0>rpf.io/microbit-new</0> पर जाएंँ।. अपने नए प्रोजेक्ट का नाम 'निराशा' रखें।
 
 + `forever` (हमेशा के लिए) और `start` (आरंभ) ब्लॉकों को पैलेट में खींचकर हटाएँ:
 
