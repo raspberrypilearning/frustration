@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: Display an image	
 Can you display an image for 1 second (1000ms) before the number of `fails` are displayed?
 
