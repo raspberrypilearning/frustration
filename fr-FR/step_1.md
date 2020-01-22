@@ -1,69 +1,77 @@
 ## Introduction
 
-Tu vas faire un jeu dans lequel les joueurs devront guider un baguette le long d'un circuit sans le toucher.
-Toucher ajoutera un au score du joueur, le joueur avec le plus petit score gagne !
+You are going to make a game in which players have to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins!
 
-__Instructions__ : Si tu lis ceci en ligne , appuie sur  __A__  sur la micro:bit ci-dessous pour démarrer le jeu, puis touche la broche __0__ pour faire une connexion.
+**Instructions**: If you're reading this online, press **A** on the micro:bit below to start the game, and then touch pin **0** to make a connection.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=71088-38400-20107-39742" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_FEDEdA3v6e64" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-Pour ce projet, tu auras besoin de :
+For this project you'll need some additional items:
 
-+ Fil de fer  (environ 50cm);
-+ Pâte à modeler
-+ Ruban adhésif isolant (optionnel);
-+ Pinces Crocodile (optionnel).
+* Metal wire (approx. 50cm);
+* Modelling clay (Plasticine or similar, needs to be non-conductive);
+* Electrical tape (optional);
+* Crocodile clip leads (optional).
 
-![screenshot](images/frustration-items.png)
+![capture d'écran](images/frustration-items.png)
 
+### Informations complémentaires pour les responsables de club
 
---- collapse ---
----
-title: Notes pour le leader du club
----
+Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/frustration/print).
 
+## \--- collapse \---
 
-## Introduction
+## title: Notes pour le responsable de club
 
-Dans ce projet, les enfants apprendront à utiliser des variables en faisant un jeu où il faut suivre le fil.
-Le but du jeu est de guider un baguette le long d'un circuit sans toucher.
-Toucher ajoutera un au score du joueur, le joueur avec le plus petit score gagne.
+## Introduction :
+
+In this project, children will learn how to use variables in making a wire-following game. The aim of the game is to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins.
 
 ## Ressources
 
-Pour réaliser ce projet, les enfants auront besoin&nbsp;:
+To complete this project, children will need:
 
-+ Fil de fer (environ 50cm);
-+ Pâte à modeler
-+ Ruban adhésif isolant (optionnel);
-+ Pinces Crocodile (optionnel).
+* Metal wire (approx. 50cm);
+* Putty;
+* Electrical tape (optional);
+* Crocodile leads (optional).
 
-Les étapes 1 et 2 de ce projet peuvent être réalisée sans cet équipement.
+Steps 1 and 2 of this project can be completed without this equipment.
 
-Pour ce projet, l'éditeur micro:bit [PXT](http://jumpto.cc/pxt-new) devra être utilisé.
+For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
-Vous pouvez trouver un version terminée de ce projet ici [pxt.microbit.org/#pub:71088-38400-20107-39742](https://pxt.microbit.org/#pub:71088-38400-20107-39742),
-et le fichier .hex compilé peut être téléchargé en cliquant sur le lien 'Matériaux' de ce projet, il contient&nbsp;:
+You can find a completed version of this project at [makecode.microbit.org/#pub:71088-38400-20107-39742](https://makecode.microbit.org/#pub:71088-38400-20107-39742), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
 
-+ Frustration.hex
+* Frustration.hex
 
 ## Objectifs d'apprentissage
 
-+ Variables
-+ Broches d'entrée/sortie
+* Variables;
+* Input/output (I/O) pins.
 
-Ce projet couvre les éléments suivants du programme [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum)&nbsp;:
+Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum):
 
-+ [Utiliser des concepts basiques de programmation pour créer des programmes simples.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Utiliser les constructs basiques de programmation pour élaborer un programme simple.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-+ [Utiliser des composants basiques numériques, analogiques, ou électromécaniques.](https://www.raspberrypi.org/curriculum/physical-computing/creator)
+* [Use basic digital, analogue, and electromechanical components.](https://www.raspberrypi.org/curriculum/physical-computing/creator)
 
 ## Défis
 
-+ "Afficher une image" - Afficher une images sur la micro:bit avant que le nombre d'`echecs` ne soit affiché.
-+ "Mode triche&nbsp;!" - Soustrait 1 du nombre d'`échecs` lorsque le bouton B est pressé.
-+ "Personnalise ton jeu" - Fait des changements dans la baguette et le circuit pour rendre le jeu plus difficile.
+* "Display an image" - Display an image on the micro:bit before the number of `fails` is displayed.
+* "Cheat mode!" - Subtract 1 from the `fails` variable when button B is pressed.
+* "Personalise your game" - Make changes to the wand and course in order to make the game more difficult.
 
---- /collapse ---
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Matériel pour projet
+
+## Ressources pour le responsable de club
+
+* [online completed project](https://makecode.microbit.org/#pub:71088-38400-20107-39742)
+* [.hex project file to transfer onto your micro:bit](resources/micro-bit-Frustration.hex)
+
+\--- /collapse \---
