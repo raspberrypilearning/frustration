@@ -1,14 +1,15 @@
---- challenge ---
-## Défi : Afficher une image
+\--- challange \---
 
-Sauras-tu afficher une image pendant 1 seconde (1000ms) avant que le nombre d'`échecs` soit affiché&nbsp;?
+## Challenge: Display an image
+
+Can you display an image for 1 second (1000ms) before the number of `fails` are displayed?
 
 ![screenshot](images/frustration-start-img.png)
 
-Tu devras utiliser les blocs suivants depuis Basique pour atteindre ton but&nbsp;:
+You'll need to use the following blocks from Basic do to this:
 
-![screenshot](images/frustration-blocks.png)
+![capture d'écran](images/frustration-blocks.png)
 
-![screenshot](images/frustration-blocks2.png)
+![capture d'écran](images/frustration-blocks2.png)
 
---- /challenge ---
+\--- /challenge \---
