@@ -9,7 +9,7 @@ copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 description: संपर्क किए बिना रास्ते में एक छड़ी से मार्गदर्शन करें।
 original_url: https://codeclubprojects.org/en-GB/microbit/frustration
-interests: गेम
+interests: games
 technologies: microbit
 site_areas: प्रोजेक्ट
 hardware: microbit
@@ -18,7 +18,7 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
   - 
-    title: परिचय
+    title: भूमिका
   - 
     title: विफलताएँ भंडारित करना
   - 
