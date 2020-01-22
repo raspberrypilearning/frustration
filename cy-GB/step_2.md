@@ -2,7 +2,7 @@
 
 Gadewch i ni ddechrau trwy greu lle i storio nifer y methiannau.
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Galwch eich prosiect newydd yn 'Frustration'.
++ Ewch i <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> i ddechrau prosiect newydd yn y golygydd MakeCode (PXT). Galwch eich prosiect newydd yn 'Frustration'.
 
 + Dilëwch y blociau `forever` (am byth) a `start` (dechrau) trwy eu llusgo i'r palet:
 
