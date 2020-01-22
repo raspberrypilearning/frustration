@@ -1,12 +1,11 @@
---- challenge ---
-## Défi: Personnalise ton jeu 
+\--- challange \---
 
-Demande à tes amis d'essayer ton jeu.
-Si ton jeu est trop facile, tu peux le rendre plus corsé en &nbsp;:
+## Challenge: Personalise your game
 
-+ Créant un circuit plus long,
-+ En ajoutant plus de virages dans ton circuit,
-+ En réduisant la taille de la boucle de ta baguette.
+Get some friends to try out your game. If your game is too easy, you can make it harder by:
 
+- Creating a longer course;
+- Adding more bends to your course;
+- Making a wand with a smaller gap.
 
---- /challenge ---
+\--- /challenge \---
