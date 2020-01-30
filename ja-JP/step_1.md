@@ -1,4 +1,4 @@
-## はじめに
+## Introduction
 
 You are going to make a game in which players have to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins!
 
@@ -15,21 +15,21 @@ For this project you'll need some additional items:
 * Electrical tape (optional);
 * Crocodile clip leads (optional).
 
-![スクリーンショット](images/frustration-items.png)
+![screenshot](images/frustration-items.png)
 
-### クラブリーダーのための追加情報
+### Additional information for club leaders
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/frustration/print)を使用してください。
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/frustration/print).
 
 ## \--- collapse \---
 
-## title：クラブリーダー・ノート
+## title: Club leader notes
 
-## はじめに
+## Introduction:
 
 In this project, children will learn how to use variables in making a wire-following game. The aim of the game is to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins.
 
-## 資料
+## Resources
 
 To complete this project, children will need:
 
@@ -46,18 +46,18 @@ You can find a completed version of this project at [makecode.microbit.org/#pub:
 
 * Frustration.hex
 
-## 学習のねらい
+## Learning Objectives
 
-* 変数
+* Variables;
 * Input/output (I/O) pins.
 
-このプロジェクトは [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum)の中から、以下の内容を取り扱います：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [基本的なプログラミングで簡単なプログラムを作成する。](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 * [Use basic digital, analogue, and electromechanical components.](https://www.raspberrypi.org/curriculum/physical-computing/creator)
 
-## チャレンジ
+## Challenges
 
 * "Display an image" - Display an image on the micro:bit before the number of `fails` is displayed.
 * "Cheat mode!" - Subtract 1 from the `fails` variable when button B is pressed.
@@ -67,9 +67,9 @@ You can find a completed version of this project at [makecode.microbit.org/#pub:
 
 ## \--- collapse \---
 
-## title: プロジェクト資料
+## title: Project materials
 
-## 指導者用資料
+## Club leader resources
 
 * [online completed project](https://makecode.microbit.org/#pub:71088-38400-20107-39742)
 * [.hex project file to transfer onto your micro:bit](resources/micro-bit-Frustration.hex)
