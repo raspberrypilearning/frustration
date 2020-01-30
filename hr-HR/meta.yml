@@ -1,5 +1,5 @@
 ---
-title: Frustracija
+title: Frustration
 hero_image: images/frustration.png
 theme: turquoise
 duration: 2
@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-description: Vodite štapić duž tečaja bez kontakta.
+description: Guide a wand along a course without making contact.
 original_url: https://codeclubprojects.org/en-GB/microbit/frustration
 interests: games
 technologies: microbit
@@ -18,16 +18,16 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
   - 
-    title: Sretan rođendan
+    title: Introduction
   - 
-    title: Spremanje ne uspijeva
+    title: Storing fails
   - 
-    title: 'Izazov: Prikažite sliku'
+    title: 'Challenge: Display an image'
   - 
-    title: Praćenje neuspjeha
+    title: Keeping track of fails
   - 
-    title: Izgradnja svoje igre
+    title: Building your game
   - 
-    title: 'Izazov: Cheat mode!'
+    title: 'Challenge: Cheat mode!'
   - 
-    title: 'Izazov: Prilagodite svoju igru'
+    title: 'Challenge: Personalise your game'
