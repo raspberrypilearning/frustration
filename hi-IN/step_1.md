@@ -1,77 +1,77 @@
-## परिचय
+## Introduction
 
-आप एक ऐसाी गेम बनाने जा रहे हैं जिसमें खिलाड़ियों को संपर्क किए बिना एक रास्ते पर एक छड़ी का मार्गदर्शन करना होगा। संपर्क हो जाने पर खिलाड़ी के स्कोर में एक जुड़ जाएगा - सबसे कम स्कोर वाला खिलाड़ी जीतता है।
+You are going to make a game in which players have to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins!
 
-**निर्देश**: यदि आप इसे ऑनलाइन पढ़ रहे हैं, तो गेम शुरू करने के लिए नीचे micro:bit पर **A** दबाएँ, और फिर एक कनेक्शन बनाने के लिए पिन **0** को छुएँ।
+**Instructions**: If you're reading this online, press **A** on the micro:bit below to start the game, and then touch pin **0** to make a connection.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_FEDEdA3v6e64" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-इस प्रोजेक्ट के लिए आपको कुछ अतिरिक्त वस्तुओं की आवश्यकता होगी:
+For this project you'll need some additional items:
 
-* धातु की तार (लगभग 50 सेमी);
-* मॉडलिंग क्ले (प्लास्टिसीन या उसके जैसी, जिसे गैर-विद्युतचालक होना चाहिए);
-* विद्युत टेप (वैकल्पिक);
-* क्रोकोडाइल क्लिप लीड (वैकल्पिक)।
+* Metal wire (approx. 50cm);
+* Modelling clay (Plasticine or similar, needs to be non-conductive);
+* Electrical tape (optional);
+* Crocodile clip leads (optional).
 
-![स्क्रीनशॉट](images/frustration-items.png)
+![screenshot](images/frustration-items.png)
 
-### क्लब लीडरों के लिए अतिरिक्त जानकारी
+### Additional information for club leaders
 
-यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/frustration/print) का उपयोग करें।
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/frustration/print).
 
 ## \--- collapse \---
 
-## title: क्लब नेता नोट्स
+## title: Club leader notes
 
-## परिचय:
+## Introduction:
 
-इस प्रोजेक्ट में, बच्चे सीखेंगे कि तार वाली निम्नलिखित गेम बनाने में वेरिएबल का उपयोग कैसे करें। इस गेम का उद्देश्य संपर्क किए बिना किसी राह पर जादू की छड़ी से मार्गदर्शन करना है। संपर्क हो जाने पर खिलाड़ी के स्कोर में एक जुड़ जाएगा - सबसे कम स्कोर वाला खिलाड़ी जीतता है।
+In this project, children will learn how to use variables in making a wire-following game. The aim of the game is to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins.
 
-## संसाधन
+## Resources
 
-इस प्रोजेक्ट को पूरा करने के लिए, बच्चों को इन चीज़ों की आवश्यकता होगी:
+To complete this project, children will need:
 
-* धातु की तार (लगभग 50 सेमी);
-* पुटी;
-* विद्युत टेप (वैकल्पिक);
-* क्रोकोडाइल लीड (वैकल्पिक)।
+* Metal wire (approx. 50cm);
+* Putty;
+* Electrical tape (optional);
+* Crocodile leads (optional).
 
-इस प्रोजेक्ट के चरण 1 और 2 को इस उपकरण के बिना पूरा किया जा सकता है।
+Steps 1 and 2 of this project can be completed without this equipment.
 
-इस प्रोजेक्ट के लिए, [MakeCode (PXT)](http://jumpto.cc/pxt-new) माइक्रोबिट संपादक का उपयोग किया जाना चाहिए।
+For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
-आप इस प्रोजेक्ट का पूर्ण किया गया संस्करण [makecode.microbit.org/#pub:71088-38400-20107-39742](https://makecode.microbit.org/#pub:71088-38400-20107-39742) पर प्राप्त कर सकते हैं, और संकलित .hex फाइल 'प्रोजेक्ट सामग्री डाउनलोड करें' लिंक पर क्लिक करके डाउनलोड की जा सकती है, जिसमें शामिल है:
+You can find a completed version of this project at [makecode.microbit.org/#pub:71088-38400-20107-39742](https://makecode.microbit.org/#pub:71088-38400-20107-39742), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
 
 * Frustration.hex
 
-## अध्ययन के उद्देश्य
+## Learning Objectives
 
-* वेरिएबल;
-* इनपुट/आउटपुट (I/O) पिन।
+* Variables;
+* Input/output (I/O) pins.
 
-इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्व सम्मिलित हैं:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [मूल डिजिटल, एनालॉग, और इलेक्ट्रोमैकेनिकल घटकों का प्रयोग करें।](https://www.raspberrypi.org/curriculum/physical-computing/creator)
+* [Use basic digital, analogue, and electromechanical components.](https://www.raspberrypi.org/curriculum/physical-computing/creator)
 
-## चुनौतियाँ
+## Challenges
 
-* "छवि प्रदर्शित करें" - `विफलताओं` की संख्या प्रदर्शित होने से पहले micro:bit पर एक छवि प्रदर्शित करें।
-* "चीट (धोखाधड़ी) मोड!" - जब बटन B दबाया गया हो तो वेरिएबल `विफलताएँ` में से 1 घटाएँ।
-* "अपने गेम को वैयक्तिकृत करें" - गेम को और अधिक कठिन बनाने के लिए छड़ीऔर रास्ते में बदलाव करें।
+* "Display an image" - Display an image on the micro:bit before the number of `fails` is displayed.
+* "Cheat mode!" - Subtract 1 from the `fails` variable when button B is pressed.
+* "Personalise your game" - Make changes to the wand and course in order to make the game more difficult.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: प्रोजेक्ट सामग्री
+## title: Project materials
 
-## क्लब नेता संसाधन
+## Club leader resources
 
-* [ऑनलाइन पूर्ण प्रोजेक्ट](https://makecode.microbit.org/#pub:71088-38400-20107-39742)
-* [आपके micro:bit पर स्थानांतरित करने के लिए.hex प्रोजेक्ट फ़ाइल](resources/micro-bit-Frustration.hex)
+* [online completed project](https://makecode.microbit.org/#pub:71088-38400-20107-39742)
+* [.hex project file to transfer onto your micro:bit](resources/micro-bit-Frustration.hex)
 
 \--- /collapse \---
