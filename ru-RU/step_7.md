@@ -1,4 +1,4 @@
-скриншот
+\--- challenge \---
 
 ## Challenge: Personalise your game
 
