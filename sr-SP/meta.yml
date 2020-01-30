@@ -1,7 +1,7 @@
 ---
 title: Frustration
 hero_image: images/frustration.png
-theme: тиркиз
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -18,7 +18,7 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
   - 
-    title: Увод
+    title: Introduction
   - 
     title: Storing fails
   - 
