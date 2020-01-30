@@ -1,4 +1,4 @@
-\--- kihívás \---
+\--- challenge \---
 
 ## Challenge: Display an image
 
@@ -12,4 +12,4 @@ You'll need to use the following blocks from Basic do to this:
 
 ![screenshot](images/frustration-blocks2.png)
 
-\--- / challenge \---
+\--- /challenge \---
