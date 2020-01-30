@@ -1,4 +1,4 @@
-\--- challange \---
+\--- challenge \---
 
 ## Challenge: Personalise your game
 
