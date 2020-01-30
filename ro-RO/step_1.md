@@ -1,4 +1,4 @@
-## Introducere
+## Introduction
 
 You are going to make a game in which players have to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins!
 
@@ -15,21 +15,21 @@ For this project you'll need some additional items:
 * Electrical tape (optional);
 * Crocodile clip leads (optional).
 
-![captură de ecran](images/frustration-items.png)
+![screenshot](images/frustration-items.png)
 
-### Informații suplimentare pentru conducătorii e club
+### Additional information for club leaders
 
-Dacă aveți nevoie să imprimați acest proiect, vă rugăm să folosiți versiunea [Printer friendly version](https://projects.raspberrypi.org/en/projects/frustration/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/frustration/print).
 
 ## \--- collapse \---
 
-## title: Note pentru conducătorul clubului
+## title: Club leader notes
 
-## Introducere:
+## Introduction:
 
 In this project, children will learn how to use variables in making a wire-following game. The aim of the game is to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins.
 
-## Resurse
+## Resources
 
 To complete this project, children will need:
 
@@ -46,18 +46,18 @@ You can find a completed version of this project at [makecode.microbit.org/#pub:
 
 * Frustration.hex
 
-## Obiectivele învățării
+## Learning Objectives
 
 * Variables;
 * Input/output (I/O) pins.
 
-Acest proiect acoperă elemente din următoarele domenii [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Folosește elemente de bază din programare pentru a crea programe simple.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 * [Use basic digital, analogue, and electromechanical components.](https://www.raspberrypi.org/curriculum/physical-computing/creator)
 
-## Provocări
+## Challenges
 
 * "Display an image" - Display an image on the micro:bit before the number of `fails` is displayed.
 * "Cheat mode!" - Subtract 1 from the `fails` variable when button B is pressed.
@@ -65,11 +65,11 @@ Acest proiect acoperă elemente din următoarele domenii [Raspberry Pi Digital M
 
 \--- /collapse \---
 
-## \--- restrange\---
+## \--- collapse \---
 
-## title: Materiale pentru proiect
+## title: Project materials
 
-## Resursele liderului de club
+## Club leader resources
 
 * [online completed project](https://makecode.microbit.org/#pub:71088-38400-20107-39742)
 * [.hex project file to transfer onto your micro:bit](resources/micro-bit-Frustration.hex)
