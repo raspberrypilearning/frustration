@@ -1,4 +1,4 @@
-## Inledning
+## Introduction
 
 You are going to make a game in which players have to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins!
 
@@ -15,7 +15,7 @@ For this project you'll need some additional items:
 * Electrical tape (optional);
 * Crocodile clip leads (optional).
 
-![skärmdump](images/frustration-items.png)
+![screenshot](images/frustration-items.png)
 
 ### Additional information for club leaders
 
@@ -25,11 +25,11 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## title: Club leader notes
 
-## Introduktion:
+## Introduction:
 
 In this project, children will learn how to use variables in making a wire-following game. The aim of the game is to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins.
 
-## Hjälpmedel
+## Resources
 
 To complete this project, children will need:
 
