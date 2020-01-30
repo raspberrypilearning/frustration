@@ -1,27 +1,27 @@
-## Praćenje neuspjeha
+## Keeping track of fails
 
-Dodajmo kôd za praćenje kvarova.
+Let's add code to keep track of fails.
 
-+ Svaki put kad se uspostavi veza na Pin0, varijabli `ne uspije` dodati ćete 1. Da biste to učinili, povucite `na pin P0 pritisnut` s 'Ulaz'.
++ You're going to add 1 to your `fails` variable every time a connection is made on Pin0. To do this, drag `on pin P0 pressed` from 'Input'.
 
 ![screenshot](images/frustration-pressPin0.png)
 
-+ Zatim dodajte 2 bloka za prikaz križa na 1 sekundu kada pritisnete Pin0.
++ Next, add 2 blocks to display a cross for 1 second when Pin0 is pressed.
 
 ![screenshot](images/frustration-pin0-x.png)
 
-+ Tada ćete morati dodati 1 u varijablu `ne uspijeva`. Da biste to učinili, povucite stavku `promjenu 1` iz Varijable i promijenite `stavka` u `neuspjeh`. 
++ You'll then need to add 1 to your `fails` variable. To do this, click the drag a `change item by 1` from Variables and change `item` to `fail`. 
 
 ![screenshot](images/frustration-pin0-fails.png)
 
-+ Konačno, možete dodati kôd za prikaz ažuriranog broja kvarova. Ovako bi tvoj kôd trebao izgledati.
++ Finally, you can add code to display the updated number of fails. Here's how your code should look.
 
-![snimka zaslona](images/frustration-pin0-code.png)
+![screenshot](images/frustration-pin0-code.png)
 
-+ Testirajte svoj kôd pritiskom na tipku A na emulatoru za početak igre. Svakim pritiskom Pin0 trebali vidjeti svoje `ne` varijabilni porast od 1.
++ Test your code by pressing button A on the emulator to start your game. Each time you press Pin0 you should see your `fails` variable increase by 1.
 
 ![screenshot](images/frustration-pin0-test.png)
 
-+ Kliknite "Preuzmi" i prenesite skriptu na svoj mikro: bit. Možete pritisnuti Pin0 dovršenjem kruga. Da biste to učinili, postavite desni palac na zemaljsku iglu (GND), a zatim dodirnite Pin0 lijevim palcem.
++ Click 'Download' and transfer your script onto your micro:bit. You can press Pin0 by completing a circuit. To do this, place your right thumb on the ground pin (GND) and then tap Pin0 with your left thumb.
 
 ![screenshot](images/frustration-pin0-compile.png)
