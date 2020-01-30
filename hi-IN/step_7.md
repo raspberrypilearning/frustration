@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## चुनौती: अपनी गेम को निजीकृत करें
+## Challenge: Personalise your game
 
-अपनी गेम को आजमाने के लिए कुछ दोस्तों को लाएँ। यदि आपकी गेम बहुत आसान है, तो आप इसे इस तरीके से कठिन बना सकते हैं:
+Get some friends to try out your game. If your game is too easy, you can make it harder by:
 
-- एक लंबा रास्ता बनाकर;
-- अपने रास्ते में और अधिक मोड़ों को जोड़कर;
-- एक छोटे अंतर वाली छड़ी बनाकर।
+- Creating a longer course;
+- Adding more bends to your course;
+- Making a wand with a smaller gap.
 
 \--- /challenge \---
