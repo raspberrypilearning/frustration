@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## चुनौती: धोखाधड़ी मोड!
+## Challenge: Cheat mode!
 
-क्या आप अपनी गेम में धोखाधड़ी जोड़ सकते हैं, ताकि बटन B दबाने पर आपके स्कोर में 1 अंक कम हो जाए?
+Can you add a cheat to your game, so that pressing button B reduces your score by 1?
 
 \--- /challenge \---
