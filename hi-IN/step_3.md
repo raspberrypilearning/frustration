@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## चुनौती: एक छवि प्रदर्शित करें
+## Challenge: Display an image
 
-क्या आप `विफलताएँ` की संख्या प्रदर्शित होने से पहले 1 सेकंड (1000ms) के लिए एक छवि प्रदर्शित कर सकते हैं?
+Can you display an image for 1 second (1000ms) before the number of `fails` are displayed?
 
-![स्क्रीनशॉट](images/frustration-start-img.png)
+![screenshot](images/frustration-start-img.png)
 
-इसे करने के लिए आपको Basic (मूलभूत) से निम्न ब्लॉकों का उपयोग करना होगा:
+You'll need to use the following blocks from Basic do to this:
 
-![स्क्रीनशॉट](images/frustration-blocks.png)
+![screenshot](images/frustration-blocks.png)
 
-![स्क्रीनशॉट](images/frustration-blocks2.png)
+![screenshot](images/frustration-blocks2.png)
 
 \--- /challenge \---
