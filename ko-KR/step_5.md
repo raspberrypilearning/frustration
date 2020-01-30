@@ -8,11 +8,11 @@ Now that you've coded your game, let's put it all together!
 
 + You can then twist the two pieces of wire together.
 
-![스크린샷](images/frustration-wand-twist.png)
+![screenshot](images/frustration-wand-twist.png)
 
 + To make the course, take another piece of wire about 30cm long and bend the middle part of the wire into shape. You should bend up one end of the course.
 
-![스크린샷](images/frustration-course-bend.png)
+![screenshot](images/frustration-course-bend.png)
 
 + If you have some electrical tape, wrap some around the two ends of the wire, leaving some exposed metal at both ends.
 
@@ -20,16 +20,16 @@ Now that you've coded your game, let's put it all together!
 
 + Slide your wand through your course, and push the ends of your wire into some putty to stand it up.
 
-![스크린샷](images/frustration-course-putty.png)
+![screenshot](images/frustration-course-putty.png)
 
 + You can now connect your game to your micro:bit using a crocodile clip lead or some wire. Firstly, connect the ground pin (GND) to one end of your course.
 
-![스크린샷](images/frustration-gnd-connect.png)
+![screenshot](images/frustration-gnd-connect.png)
 
 + You can then connect Pin 0 to your wand.
 
-![스크린샷](images/frustration-pin0-connect.png)
+![screenshot](images/frustration-pin0-connect.png)
 
 + Test your game. Press button A and your score should be set to 0. Each time your wand touches the course, the circuit is completed and your micro:bit should add 1 to your number of fails.
 
-![스크린샷](images/frustration-final.png)
+![screenshot](images/frustration-final.png)
