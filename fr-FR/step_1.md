@@ -15,21 +15,21 @@ For this project you'll need some additional items:
 * Electrical tape (optional);
 * Crocodile clip leads (optional).
 
-![capture d'écran](images/frustration-items.png)
+![screenshot](images/frustration-items.png)
 
-### Informations complémentaires pour les responsables de club
+### Additional information for club leaders
 
-Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/frustration/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/frustration/print).
 
 ## \--- collapse \---
 
-## title: Notes pour le responsable de club
+## title: Club leader notes
 
-## Introduction :
+## Introduction:
 
 In this project, children will learn how to use variables in making a wire-following game. The aim of the game is to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins.
 
-## Ressources
+## Resources
 
 To complete this project, children will need:
 
@@ -46,18 +46,18 @@ You can find a completed version of this project at [makecode.microbit.org/#pub:
 
 * Frustration.hex
 
-## Objectifs d'apprentissage
+## Learning Objectives
 
 * Variables;
 * Input/output (I/O) pins.
 
-Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Utiliser les constructs basiques de programmation pour élaborer un programme simple.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 * [Use basic digital, analogue, and electromechanical components.](https://www.raspberrypi.org/curriculum/physical-computing/creator)
 
-## Défis
+## Challenges
 
 * "Display an image" - Display an image on the micro:bit before the number of `fails` is displayed.
 * "Cheat mode!" - Subtract 1 from the `fails` variable when button B is pressed.
@@ -67,9 +67,9 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativi
 
 ## \--- collapse \---
 
-## title: Matériel pour projet
+## title: Project materials
 
-## Ressources pour le responsable de club
+## Club leader resources
 
 * [online completed project](https://makecode.microbit.org/#pub:71088-38400-20107-39742)
 * [.hex project file to transfer onto your micro:bit](resources/micro-bit-Frustration.hex)
