@@ -14,7 +14,7 @@ Let's add code to keep track of fails.
 
 ![screenshot](images/frustration-pin0-fails.png)
 
-+ Finally, you can add code to display the updated number of fails. Έτσι πρέπει να φαίνεται ο κώδικας.
++ Finally, you can add code to display the updated number of fails. Here's how your code should look.
 
 ![screenshot](images/frustration-pin0-code.png)
 
