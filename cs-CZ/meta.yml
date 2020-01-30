@@ -11,14 +11,14 @@ description: Guide a wand along a course without making contact.
 original_url: https://codeclubprojects.org/en-GB/microbit/frustration
 interests: games
 technologies: microbit
-site_areas: projekty
+site_areas: projects
 hardware: microbit
 software: ''
 version: 3.0.1
 last_tested: 2019-03-06
 steps:
   - 
-    title: Úvod
+    title: Introduction
   - 
     title: Storing fails
   - 
