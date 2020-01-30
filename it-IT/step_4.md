@@ -12,16 +12,16 @@ Let's add code to keep track of fails.
 
 + You'll then need to add 1 to your `fails` variable. To do this, click the drag a `change item by 1` from Variables and change `item` to `fail`. 
 
-![schermata](images/frustration-pin0-fails.png)
+![screenshot](images/frustration-pin0-fails.png)
 
-+ Finally, you can add code to display the updated number of fails. Il tuo codice dovrebbe essere più o meno così.
++ Finally, you can add code to display the updated number of fails. Here's how your code should look.
 
-![schermata](images/frustration-pin0-code.png)
+![screenshot](images/frustration-pin0-code.png)
 
 + Test your code by pressing button A on the emulator to start your game. Each time you press Pin0 you should see your `fails` variable increase by 1.
 
-![schermata](images/frustration-pin0-test.png)
+![screenshot](images/frustration-pin0-test.png)
 
 + Click 'Download' and transfer your script onto your micro:bit. You can press Pin0 by completing a circuit. To do this, place your right thumb on the ground pin (GND) and then tap Pin0 with your left thumb.
 
-![schermata](images/frustration-pin0-compile.png)
+![screenshot](images/frustration-pin0-compile.png)
