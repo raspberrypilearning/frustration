@@ -8,8 +8,8 @@ Can you display an image for 1 second (1000ms) before the number of `fails` are 
 
 You'll need to use the following blocks from Basic do to this:
 
-![schermata](images/frustration-blocks.png)
+![screenshot](images/frustration-blocks.png)
 
-![schermata](images/frustration-blocks2.png)
+![screenshot](images/frustration-blocks2.png)
 
 \--- /challenge \---
