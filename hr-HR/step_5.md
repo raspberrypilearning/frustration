@@ -1,35 +1,35 @@
-## Izgradnja svoje igre
+## Building your game
 
-Sad kad ste šifrirali svoju igru, pripremimo je zajedno!
+Now that you've coded your game, let's put it all together!
 
-+ Prvo, napravimo vaš štapić. Uzmite komad žice dugačak oko 20 cm i savijte ga na pola, čineći petlju na vrhu.
++ First, let's make your wand. Take a piece of wire about 20cm long and bend it in half, making a loop at the top.
 
 ![screenshot](images/frustration-wand-bend.png)
 
-+ Zatim možete uviti dva komada žice zajedno.
++ You can then twist the two pieces of wire together.
 
 ![screenshot](images/frustration-wand-twist.png)
 
-+ Da biste napravili tečaj, uzmite još jedan komad žice duljine oko 30 cm i savijte srednji dio žice u oblik. Treba saviti jedan kraj tečaja.
++ To make the course, take another piece of wire about 30cm long and bend the middle part of the wire into shape. You should bend up one end of the course.
 
 ![screenshot](images/frustration-course-bend.png)
 
-+ Ako imate neku električnu vrpcu, omotajte je oko dva kraja žice, ostavljajući neki otkriveni metal na oba kraja.
++ If you have some electrical tape, wrap some around the two ends of the wire, leaving some exposed metal at both ends.
 
-![snimka zaslona](images/frustration-course-tape.png)
+![screenshot](images/frustration-course-tape.png)
 
-+ Gurnite štapić svojim tokom i gurnite krajeve žice u nekakav kit da ga uspravite.
++ Slide your wand through your course, and push the ends of your wire into some putty to stand it up.
 
 ![screenshot](images/frustration-course-putty.png)
 
-+ Sada možete spojiti igru na mikro: bit pomoću olovke za krokodile ili neke žice. Prvo spojite uzemljeni pin (GND) na jedan kraj vašeg tečaja.
++ You can now connect your game to your micro:bit using a crocodile clip lead or some wire. Firstly, connect the ground pin (GND) to one end of your course.
 
 ![screenshot](images/frustration-gnd-connect.png)
 
-+ Zatim možete spojiti Pin 0 na štapić.
++ You can then connect Pin 0 to your wand.
 
 ![screenshot](images/frustration-pin0-connect.png)
 
-+ Testirajte svoju igru. Pritisnite gumb A i rezultat treba biti postavljen na 0. Svaki put kada štapić dodirne tečaj, krug je dovršen i vaš micro: bit trebao bi dodati 1 vašem broju pogrešaka.
++ Test your game. Press button A and your score should be set to 0. Each time your wand touches the course, the circuit is completed and your micro:bit should add 1 to your number of fails.
 
 ![screenshot](images/frustration-final.png)
