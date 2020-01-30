@@ -10,6 +10,6 @@ You'll need to use the following blocks from Basic do to this:
 
 ![screenshot](images/frustration-blocks.png)
 
-![στιγμιότυπο οθόνης](images/frustration-blocks2.png)
+![screenshot](images/frustration-blocks2.png)
 
 \--- /challenge \---
