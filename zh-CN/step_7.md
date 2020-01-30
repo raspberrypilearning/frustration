@@ -8,4 +8,4 @@ Get some friends to try out your game. If your game is too easy, you can make it
 - Adding more bends to your course;
 - Making a wand with a smaller gap.
 
-\--- challenge \---
+\--- /challenge \---
