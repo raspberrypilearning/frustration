@@ -1,27 +1,27 @@
-## विफलताओं का ट्रैक रखना
+## Keeping track of fails
 
-आइए हम विफलताओं का ट्रैक रखने के लिए कोड जोड़ें।
+Let's add code to keep track of fails.
 
-+ प्रत्येक बार Pin0 (पिन 0) पर जब कोई कनेक्शन बनाया जाएगा तो आप अपने `विफलताएँ` वेरिएबल में 1 जोड़ेंगे। ऐसा करने के लिए, 'Input' ('इनपुट') से `on pin P0 pressed` को खींचें।
++ You're going to add 1 to your `fails` variable every time a connection is made on Pin0. To do this, drag `on pin P0 pressed` from 'Input'.
 
 ![screenshot](images/frustration-pressPin0.png)
 
-+ इसके बाद, Pin0 (पिन 0) दबाए जाने पर 1 सेकंड के लिए क्रॉस प्रदर्शित करने के लिए 2 ब्लॉक जोड़ें।
++ Next, add 2 blocks to display a cross for 1 second when Pin0 is pressed.
 
-![स्क्रीनशॉट](images/frustration-pin0-x.png)
+![screenshot](images/frustration-pin0-x.png)
 
-+ फिर आपको अपने `विफलताएँ` वेरिएबल पर 1 जोड़ना होगा। ऐसा करने के लिए, Variables (वेरिएबल्स) से `change item by 1` (आइटम को 1 से बदलें) को क्लिक करें और खींचें और उसे बदलकर `item` (आइटम) की जगह `fail` (विफल) कर दें। 
++ You'll then need to add 1 to your `fails` variable. To do this, click the drag a `change item by 1` from Variables and change `item` to `fail`. 
 
-![स्क्रीनशॉट](images/frustration-pin0-fails.png)
+![screenshot](images/frustration-pin0-fails.png)
 
-+ अंत में, आप विफलताओं की अद्यतन संख्या प्रदर्शित करने के लिए कोड जोड़ सकते हैं। यहाँ दिखाया गया है कि आपका कोड कैसा दिखना चाहिए.
++ Finally, you can add code to display the updated number of fails. Here's how your code should look.
 
-![स्क्रीनशॉट](images/frustration-pin0-code.png)
+![screenshot](images/frustration-pin0-code.png)
 
-+ अपनी गेम को शुरू करने के लिए एमुलेटर पर बटन A दबाकर अपने कोड का परीक्षण करें। प्रत्येक बार जब आप Pin0 (पिन0) दबाते हैं तो आपको अपने `विफलताएँ` वेरिएबल में 1 की वृद्धि दिखाई देनी चाहिए।
++ Test your code by pressing button A on the emulator to start your game. Each time you press Pin0 you should see your `fails` variable increase by 1.
 
-![स्क्रीनशॉट](images/frustration-pin0-test.png)
+![screenshot](images/frustration-pin0-test.png)
 
-+ 'Download' ('डाउनलोड') पर क्लिक करें और अपनी स्क्रिप्ट को अपने micro:bit पर स्थानांतरित करें। सर्किट को पूरा करके आप Pin0 (पिन0) को दबा सकते हैं। ऐसा करने के लिए, ground pin (ग्राउंड पिन) (GND) पर अपना दायाँ अंगूठा रखें और फिर अपने बाएँ अंगूठे से Pin0 (पिन0) टैप करें।
++ Click 'Download' and transfer your script onto your micro:bit. You can press Pin0 by completing a circuit. To do this, place your right thumb on the ground pin (GND) and then tap Pin0 with your left thumb.
 
-![स्क्रीनशॉट](images/frustration-pin0-compile.png)
+![screenshot](images/frustration-pin0-compile.png)
