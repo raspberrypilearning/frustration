@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Izazov: Prikažite sliku
+## Challenge: Display an image
 
-Možete li prikazati sliku na 1 sekundu (1000 ms) prije nego što se prikaže broj `propusta`?
+Can you display an image for 1 second (1000ms) before the number of `fails` are displayed?
 
 ![screenshot](images/frustration-start-img.png)
 
-Za ovo ćete trebati koristiti sljedeće blokove iz Basic:
+You'll need to use the following blocks from Basic do to this:
 
-![snimka zaslona](images/frustration-blocks.png)
+![screenshot](images/frustration-blocks.png)
 
 ![screenshot](images/frustration-blocks2.png)
 
