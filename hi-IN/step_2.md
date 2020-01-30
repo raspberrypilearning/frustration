@@ -1,35 +1,35 @@
-## विफलताएँ भंडारित करना
+## Storing fails
 
-आइए विफलताओं की संख्या का भंडारण करने के लिए कोई जगह बनाकर शुरू करते हैं।
+Let's start by creating a place to store the number of fails.
 
-+ MakeCode (PXT) संपादक में एक नया प्रोजेक्ट शुरू करने के लिए <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> पर जाएंँ। अपने नए प्रोजेक्ट का नाम 'निराशा' रखें।
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Frustration'.
 
-+ `forever` (हमेशा के लिए) और `start` (आरंभ) ब्लॉकों को पैलेट में खींचकर हटाएँ:
++ Delete the `forever` and `start` blocks by dragging them to the palette:
 
 ![screenshot](images/frustration-bin.png)
 
-+ जब खिलाड़ी बटन A दबाता है तो एक नया गेम शुरू होना चाहिए। 'Input' ('इनपुट') पर क्लिक करें और फिर `on button A pressed` (बटन A दबाए जाने पर) पर क्लिक करें।
++ A new game should start when the player presses button A. Click 'Input' and then `on button A pressed`.
 
-![स्क्रीनशॉट](images/frustration-onPressA.png)
+![screenshot](images/frustration-onPressA.png)
 
-+ अब आपको एक वेरिएबल की आवश्यकता है जिसमें छड़ी से तार को छूकर गेम में विफल होने की संख्या का भंडारण किया जा सके । 'Variables' ('वेरिएबल्स') पर क्लिक करें और फिर 'Make a new variable' ('एक नया वेरिएबल बनाएँ') पर क्लिक करें। इस वेरिएबल का नाम `विफलताएँ` रखें।
++ Now you need a variable to store the number of times you fail in the game by touching the wire with the wand. Click on 'Variables' and then 'Make a new Variable'. Name the variable `fails`.
 
-![स्क्रीनशॉट](images/frustration-variable.png)
+![screenshot](images/frustration-variable.png)
 
-+ 'Variables' ('वेरिएबल्स') में से `set` (सेट) ब्लॉक को खींचें और `विफलताएँ` का चयन करें:
++ Drag a `set` block from 'Variables' and select `fails`:
 
-![स्क्रीनशॉट](images/frustration-fails.png)
+![screenshot](images/frustration-fails.png)
 
-जब आप A बटन को दबाएँगे तो इससे विफलताओं की संख्या शून्य पर सेट हो जाएगी।
+This will set the number of fails to zero when you press the A button.
 
-+ अंततः, आप अपने micro:bit पर `विफलताएँ` की संख्या को प्रदर्शित कर सकते हैं। ऐसा करने के लिए, पहले`show number` (संख्या दिखाएँ) ब्लॉक को 'Basic' ('आधारभूत') में से अपनी स्क्रिप्ट के अंत तक खींचें।
++ Finally, you can display the number of `fails` on your micro:bit. To do this, first drag a `show number` block from 'Basic' to the end of your script.
 
-![स्क्रीनशॉट](images/frustration-show.png)
+![screenshot](images/frustration-show.png)
 
-+ फिर 'Variables' ('वेरिएबल्स') में से `विफलताएँ` को अपने `set block` (सेट ब्लॉक) में खींचें
++ Then drag `fails` from 'Variables' into your `set block`.
 
-![स्क्रीनशॉट](images/frustration-show-fails.png)
+![screenshot](images/frustration-show-fails.png)
 
-+ अपनी स्क्रिप्ट का परीक्षण करने के लिए 'run' ('चलाएँ') पर क्लिक करें। बटन A पर क्लिक करने से विफलताओं की संख्या प्रदर्शित होनी चाहिए, जिसे `0` पर सेट किया गया है।
++ Click 'run' to test your script. Clicking button A should display the number of fails, which has been set to `0`.
 
-![स्क्रीनशॉट](images/frustration-fails-test.png)
+![screenshot](images/frustration-fails-test.png)
