@@ -1,35 +1,35 @@
-## अपनी गेम बनाना
+## Building your game
 
-अब जब आपने अपनी गेम को कोड कर लिया है, आइए इस सब को एक साथ रखें!
+Now that you've coded your game, let's put it all together!
 
-+ सबसे पहले, आइए आपकी छड़ी बनाएँ लगभग 20 सेंटीमीटर लंबा तार का एक टुकड़ा लें और इसे आधी दूरी तक मोड़ें, शीर्ष पर एक लूप बनाएँ।
++ First, let's make your wand. Take a piece of wire about 20cm long and bend it in half, making a loop at the top.
 
 ![screenshot](images/frustration-wand-bend.png)
 
-+ इसके बादआप तार के दोनों टुकड़ों को एक साथ मोड़ सकते हैं।
++ You can then twist the two pieces of wire together.
 
-![स्क्रीनशॉट](images/frustration-wand-twist.png)
+![screenshot](images/frustration-wand-twist.png)
 
-+ इसे पूरा करने के लिए, लगभग 30 सेमी लंबा तार का एक और टुकड़ा लें और तार को बीच के हिस्से में से मोड़कर उसे आकार दें। आपको रास्ते के एक छोर को मोड़ना चाहिए।
++ To make the course, take another piece of wire about 30cm long and bend the middle part of the wire into shape. You should bend up one end of the course.
 
-![स्क्रीनशॉट](images/frustration-course-bend.png)
+![screenshot](images/frustration-course-bend.png)
 
-+ यदि आपके पास कोई बिजली की टेप है, तो तार के दोनों सिरों पर थोड़ी सी टेप लपेटें, दोनों सिरों पर थोड़ी सी धातु को खुला छोड़ दें।
++ If you have some electrical tape, wrap some around the two ends of the wire, leaving some exposed metal at both ends.
 
-![स्क्रीनशॉट](images/frustration-course-tape.png)
+![screenshot](images/frustration-course-tape.png)
 
-+ अपने रास्ते पर अपनी छड़ी स्लाइड करें, और अपने तार के सिरों को किसी पुटी में दबाएँ ताकि तार खड़ी रह सके।
++ Slide your wand through your course, and push the ends of your wire into some putty to stand it up.
 
-![स्क्रीनशॉट](images/frustration-course-putty.png)
+![screenshot](images/frustration-course-putty.png)
 
-+ अब आप अपनी गेम को चिमटी (क्रोकोडाइल क्लिप) की लीड या किसी तार का उपयोग करके micro:bit से कनेक्ट कर सकते हैं। सबसे पहले, अपने रास्ते के एक छोर से ग्राउंड पिन (GND) को कनेक्ट करें।
++ You can now connect your game to your micro:bit using a crocodile clip lead or some wire. Firstly, connect the ground pin (GND) to one end of your course.
 
-![स्क्रीनशॉट](images/frustration-gnd-connect.png)
+![screenshot](images/frustration-gnd-connect.png)
 
-+ फिर आप अपनी छड़ी पर Pin 0 (पिन 0) को कनेक्ट कर सकते हैं।
++ You can then connect Pin 0 to your wand.
 
-![स्क्रीनशॉट](images/frustration-pin0-connect.png)
+![screenshot](images/frustration-pin0-connect.png)
 
-+ अपनी गेम का परीक्षण करें। बटन A को दबाएँ और आपका स्कोर 0 पर सेट होना चाहिए। प्रत्येक बार जब आपकी छड़ी रास्ते को छूती है, तो सर्किट पूरा हो जाता है और आपके micro:bit को आपकी विफलताओं की संख्या में 1 जोड़ना चाहिए।
++ Test your game. Press button A and your score should be set to 0. Each time your wand touches the course, the circuit is completed and your micro:bit should add 1 to your number of fails.
 
-![स्क्रीनशॉट](images/frustration-final.png)
+![screenshot](images/frustration-final.png)
