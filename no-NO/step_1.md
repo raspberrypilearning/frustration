@@ -1,4 +1,4 @@
-## Introduksjon
+## Introduction
 
 You are going to make a game in which players have to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins!
 
@@ -15,21 +15,21 @@ For this project you'll need some additional items:
 * Electrical tape (optional);
 * Crocodile clip leads (optional).
 
-![skjermbilde](images/frustration-items.png)
+![screenshot](images/frustration-items.png)
 
-### Tilleggsinformasjon for klubbledere
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/frustration/print).
 
-## \--- kollaps \---
+## \--- collapse \---
 
 ## title: Club leader notes
 
-## Introduksjon:
+## Introduction:
 
 In this project, children will learn how to use variables in making a wire-following game. The aim of the game is to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins.
 
-## Ressurser
+## Resources
 
 To complete this project, children will need:
 
@@ -63,9 +63,9 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * "Cheat mode!" - Subtract 1 from the `fails` variable when button B is pressed.
 * "Personalise your game" - Make changes to the wand and course in order to make the game more difficult.
 
-\--- / kollaps \---
+\--- /collapse \---
 
-## \--- kollaps \---
+## \--- collapse \---
 
 ## title: Project materials
 
@@ -74,4 +74,4 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [online completed project](https://makecode.microbit.org/#pub:71088-38400-20107-39742)
 * [.hex project file to transfer onto your micro:bit](resources/micro-bit-Frustration.hex)
 
-\--- / kollaps \---
+\--- /collapse \---
