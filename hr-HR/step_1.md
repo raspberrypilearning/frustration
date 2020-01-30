@@ -1,77 +1,77 @@
-## Uvod
+## Introduction
 
-Napravit ćete igru u kojoj igrači moraju voditi štapić po tijeku bez kontakta. Uspostavljanje kontakta dodati će rezultat igraču - igrač s najnižim rezultatom pobjeđuje!
+You are going to make a game in which players have to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins!
 
-**Uputa**: Ako čitate ovaj Internet, pritisnite **A** na mikro: malo ispod za pokretanje igre, a zatim dodirnite iglu **0** da biste uspostavili vezu.
+**Instructions**: If you're reading this online, press **A** on the micro:bit below to start the game, and then touch pin **0** to make a connection.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_FEDEdA3v6e64" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-Za ovaj će vam projekt trebati dodatne stavke:
+For this project you'll need some additional items:
 
-* Metalna žica (cca 50cm);
-* Modeliranje gline (Plasticin ili slično, mora biti neprovodljivo);
-* Električna vrpca (opcija);
-* Isječci od krokodila (izborno).
+* Metal wire (approx. 50cm);
+* Modelling clay (Plasticine or similar, needs to be non-conductive);
+* Electrical tape (optional);
+* Crocodile clip leads (optional).
 
 ![screenshot](images/frustration-items.png)
 
-### Dodatne informacije za voditelje kluba
+### Additional information for club leaders
 
-Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/frustration/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/frustration/print).
 
 ## \--- collapse \---
 
-## title: Bilješke za voditelja kluba
+## title: Club leader notes
 
-## Uvod:
+## Introduction:
 
-U ovom projektu djeca će naučiti kako koristiti varijable u pravljenju igre koja slijedi. Cilj igre je voditi štapom duž staze, a da pritom ne stupite u kontakt. Uspostavljanje kontakta dodati će rezultat igraču - igrač s najnižim rezultatom pobjeđuje.
+In this project, children will learn how to use variables in making a wire-following game. The aim of the game is to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins.
 
-## Resursi
+## Resources
 
-Za dovršetak ovog projekta djeci će trebati:
+To complete this project, children will need:
 
-* Metalna žica (cca 50cm);
-* Kit;
-* Električna vrpca (opcija);
-* Krokodilni vodi (neobavezno).
+* Metal wire (approx. 50cm);
+* Putty;
+* Electrical tape (optional);
+* Crocodile leads (optional).
 
-Koraci 1 i 2 ovog projekta mogu se dovršiti bez ove opreme.
+Steps 1 and 2 of this project can be completed without this equipment.
 
-Za ovaj projekt treba upotrijebiti mikrobitni uređivač [MakeCode (PXT)](http://jumpto.cc/pxt-new).
+For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
-Dovršenu verziju ovog projekta možete pronaći na [makecode.microbit.org/#pub:71088-38400-20107-39742](https://makecode.microbit.org/#pub:71088-38400-20107-39742), a sastavljenu .hex datoteku možete preuzeti klikom na vezu 'Preuzmi projektne materijale' za ovaj projekt , koji sadrži:
+You can find a completed version of this project at [makecode.microbit.org/#pub:71088-38400-20107-39742](https://makecode.microbit.org/#pub:71088-38400-20107-39742), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
 
 * Frustration.hex
 
-## Ishodi učenja
+## Learning Objectives
 
-* Varijable;
-* Ulazno / izlazni (I / O) pinovi.
+* Variables;
+* Input/output (I/O) pins.
 
-Ovaj projekt pokriva elemente sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Korištenje osnova programiranja za izradu jednostavnih programa.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Koristite osnovne digitalne, analogne i elektromehaničke komponente.](https://www.raspberrypi.org/curriculum/physical-computing/creator)
+* [Use basic digital, analogue, and electromechanical components.](https://www.raspberrypi.org/curriculum/physical-computing/creator)
 
-## Izazovi
+## Challenges
 
-* "Prikaži sliku" - Prikažite sliku na mikro: bitu prije nego što se prikaže broj `ne uspije`.
-* "Način varanja!" - oduzimanje 1 od varijable `ne uspije` kada se pritisne tipka B.
-* "Prilagodite svoju igru" - Izmijenite štapić i smjer kako biste otežali igru.
+* "Display an image" - Display an image on the micro:bit before the number of `fails` is displayed.
+* "Cheat mode!" - Subtract 1 from the `fails` variable when button B is pressed.
+* "Personalise your game" - Make changes to the wand and course in order to make the game more difficult.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Materijali projekta
+## title: Project materials
 
-## Resursi za voditelja kluba
+## Club leader resources
 
-* [online završen projekt](https://makecode.microbit.org/#pub:71088-38400-20107-39742)
-* [.hex projektnu datoteku za prijenos na vaš micro: bit](resources/micro-bit-Frustration.hex)
+* [online completed project](https://makecode.microbit.org/#pub:71088-38400-20107-39742)
+* [.hex project file to transfer onto your micro:bit](resources/micro-bit-Frustration.hex)
 
 \--- /collapse \---
