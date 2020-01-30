@@ -1,35 +1,35 @@
-## Spremanje ne uspijeva
+## Storing fails
 
-Započnimo s stvaranjem mjesta za pohranjivanje broja kvarova.
+Let's start by creating a place to store the number of fails.
 
-+ Idite na <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> da biste pokrenuli novi projekt u MakeCode (PXT) uređivaču. Nazovite svoj novi projekt 'Frustracija'.
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Frustration'.
 
-+ Izbrišite `zauvijek` i `start` bloka povlačenjem ih na paletu:
++ Delete the `forever` and `start` blocks by dragging them to the palette:
 
 ![screenshot](images/frustration-bin.png)
 
-+ Nova igra trebala bi započeti kada igrač pritisne tipku A. Pritisnite "Unos", a zatim `na gumb A pritisnut`.
++ A new game should start when the player presses button A. Click 'Input' and then `on button A pressed`.
 
 ![screenshot](images/frustration-onPressA.png)
 
-+ Sada vam je potrebna varijabla za spremanje broja pogrešaka u igri dodirom žice štapićem. Kliknite na 'Variables', a zatim na 'Make a new Variable'. Imenujte varijablu `ne uspije`.
++ Now you need a variable to store the number of times you fail in the game by touching the wire with the wand. Click on 'Variables' and then 'Make a new Variable'. Name the variable `fails`.
 
 ![screenshot](images/frustration-variable.png)
 
-+ Povucite blok od `skupa` iz "Varijable" i odaberite `neuspjeha`:
++ Drag a `set` block from 'Variables' and select `fails`:
 
-![snimka zaslona](images/frustration-fails.png)
+![screenshot](images/frustration-fails.png)
 
-Kad pritisnete gumb A, postavit će se broj neuspjeha na nulu.
+This will set the number of fails to zero when you press the A button.
 
-+ Konačno, možete prikazati broj `propusta` na vašem mikro: bitu. Da biste to učinili, prvo povucite blok `emisije broj` od "Osnovno" do kraja skripte.
++ Finally, you can display the number of `fails` on your micro:bit. To do this, first drag a `show number` block from 'Basic' to the end of your script.
 
 ![screenshot](images/frustration-show.png)
 
-+ Zatim povucite `ne uspije` iz "Varijable" u svoj `postavljeni blok`.
++ Then drag `fails` from 'Variables' into your `set block`.
 
 ![screenshot](images/frustration-show-fails.png)
 
-+ Kliknite "Pokreni" da biste testirali svoju skriptu. Klikom na gumb A treba se prikazati broj pogrešaka koji je postavljen na `0`.
++ Click 'run' to test your script. Clicking button A should display the number of fails, which has been set to `0`.
 
 ![screenshot](images/frustration-fails-test.png)
