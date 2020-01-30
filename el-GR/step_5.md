@@ -20,7 +20,7 @@ Now that you've coded your game, let's put it all together!
 
 + Slide your wand through your course, and push the ends of your wire into some putty to stand it up.
 
-![στιγμιότυπο οθόνης](images/frustration-course-putty.png)
+![screenshot](images/frustration-course-putty.png)
 
 + You can now connect your game to your micro:bit using a crocodile clip lead or some wire. Firstly, connect the ground pin (GND) to one end of your course.
 
