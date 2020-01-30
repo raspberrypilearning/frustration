@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Izazov: Prilagodite svoju igru
+## Challenge: Personalise your game
 
-Pronađite nekoliko prijatelja da isprobaju vašu igru. Ako je vaša igra previše laka, možete je otežati:
+Get some friends to try out your game. If your game is too easy, you can make it harder by:
 
-- Stvaranje dužeg tečaja;
-- Dodavanje više zavoja na vaš kurs;
-- Izrada štapića s manjim razmakom.
+- Creating a longer course;
+- Adding more bends to your course;
+- Making a wand with a smaller gap.
 
 \--- /challenge \---
