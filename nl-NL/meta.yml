@@ -1,0 +1,26 @@
+---
+title: Zenuwspiraal
+hero_image: images/frustration.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+description: Leid een ring langs een spiraal zonder contact te maken.
+original_url: https://codeclubprojects.org/en-GB/microbit/frustration
+interests: games
+technologies: microbit
+site_areas: projects
+hardware: microbit
+software: ''
+version: 3.0.1
+last_tested: 2019-03-06
+steps:
+  - title: Inleiding
+  - title: Mislukkingen opslaan
+  - title: 'Uitdaging: een afbeelding weergeven'
+  - title: Het bijhouden van mislukkingen
+  - title: Je spel bouwen
+  - title: 'Uitdaging: vals spelen!'
+  - title: 'Uitdaging: verbeter je spel'
