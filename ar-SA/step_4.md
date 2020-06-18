@@ -1,27 +1,27 @@
-## Keeping track of fails
+## تتبع الإخفاقات
 
-Let's add code to keep track of fails.
+لنضيف كود لتتبع الإخفاقات.
 
-+ You're going to add 1 to your `fails` variable every time a connection is made on Pin0. To do this, drag `on pin P0 pressed` from 'Input'.
++ ستقوم بإضافة 1 إلى المتغير ` الإخفاقات` في كل مرة يتم الاتصال على Pin0. للقيام بذلك، اسحب `عندما يكون الدبوس P0 مضغوطا` من 'الادخال'.
 
-![screenshot](images/frustration-pressPin0.png)
+![لقطة شاشة](images/frustration-pressPin0.png)
 
-+ Next, add 2 blocks to display a cross for 1 second when Pin0 is pressed.
++ بعد ذلك، أضف كتلتين لعرض علامة الخطأ لثانية واحدة عندما يضغط على الدبوس Pin0.
 
-![screenshot](images/frustration-pin0-x.png)
+![لقطة شاشة](images/frustration-pin0-x.png)
 
-+ You'll then need to add 1 to your `fails` variable. To do this, click the drag a `change item by 1` from Variables and change `item` to `fail`. 
++ ستحتاج بعد ذلك إلى إضافة 1 إلى متغير `الاخفاقات` الخاص بك. لإضافة ذلك، اسحب` تغيير عنصر بمقدار 1` من المتغيرات و تغيير ` العنصر` إلى ` الإخفاقات`. 
 
-![screenshot](images/frustration-pin0-fails.png)
+![لقطة الشاشة](images/frustration-pin0-fails.png)
 
-+ Finally, you can add code to display the updated number of fails. Here's how your code should look.
++ اخيرًا، يمكنك اضافة الكود لعرض عدد الاخفاقات المحدثة. إليك كيفية ظهور تعليماتك البرمجية.
 
-![screenshot](images/frustration-pin0-code.png)
+![لقطة الشاشة](images/frustration-pin0-code.png)
 
-+ Test your code by pressing button A on the emulator to start your game. Each time you press Pin0 you should see your `fails` variable increase by 1.
++ اختبر الكود الخاص بك بالضغط على الزر A على المحاكي لبدأ لعبتك. في كل مرة تضغط فيها على الدبوس Pin0 يجب أن ترى متغير ` الإخفاقات` يزداد بمقدار واحد.
 
-![screenshot](images/frustration-pin0-test.png)
+![لقطة الشاشة](images/frustration-pin0-test.png)
 
-+ Click 'Download' and transfer your script onto your micro:bit. You can press Pin0 by completing a circuit. To do this, place your right thumb on the ground pin (GND) and then tap Pin0 with your left thumb.
++ انقر على 'تحميل' و انقل نصك البرمجي إلى جهاز المايكروبت الخاص بك micro:bit. يمكنك الضغط على الدبوس Pin0 لأكمال الدائرة. للقيام بذلك، ضع ابهامك الايمن على أرضية الدبوس (GND) و انقر فوق Pin0 بأبهامك الايسر.
 
-![screenshot](images/frustration-pin0-compile.png)
+![لقطة الشاشة](images/frustration-pin0-compile.png)
