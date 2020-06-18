@@ -1,35 +1,35 @@
-## Storing fails
+## Berührungen speichern
 
-Let's start by creating a place to store the number of fails.
+Beginnen wir mit der Erstellung eines Speicherorts für die Anzahl der Berührungen.
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Frustration'.
++ Rufe <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> auf, um ein neues Projekt im MakeCode (PXT) -Editor zu starten. Nenne dein neues Projekt "Frustration".
 
-+ Delete the `forever` and `start` blocks by dragging them to the palette:
++ Lösche die `für immer` und `starte` Blöcke, indem du sie auf die Palette ziehst:
 
-![screenshot](images/frustration-bin.png)
+![Bildschirmfoto](images/frustration-bin.png)
 
-+ A new game should start when the player presses button A. Click 'Input' and then `on button A pressed`.
++ Ein neues Spiel sollte beginnen, wenn du die Taste A drückst. Klicke auf 'Eingabe' und dann auf `Taste A gedrückt`.
 
-![screenshot](images/frustration-onPressA.png)
+![Bildschirmfoto](images/frustration-onPressA.png)
 
-+ Now you need a variable to store the number of times you fail in the game by touching the wire with the wand. Click on 'Variables' and then 'Make a new Variable'. Name the variable `fails`.
++ Jetzt benötigst du eine Variable, um zu speichern, wie oft du den Draht mit dem Zauberstab berührt hast. Klicke auf "Variablen" und dann auf "Neue Variable erstellen". Nenne die Variable `Berührungen`.
 
-![screenshot](images/frustration-variable.png)
+![Bildschirmfoto](images/frustration-variable.png)
 
-+ Drag a `set` block from 'Variables' and select `fails`:
++ Ziehe einen `setze-` Block aus 'Variablen' und wähle `Berührungen`:
 
-![screenshot](images/frustration-fails.png)
+![Bildschirmfoto](images/frustration-fails.png)
 
-This will set the number of fails to zero when you press the A button.
+Dadurch wird die Anzahl der Berührungen auf Null gesetzt, wenn du die A-Taste drückst.
 
-+ Finally, you can display the number of `fails` on your micro:bit. To do this, first drag a `show number` block from 'Basic' to the end of your script.
++ Schließlich kannst du die Anzahl der `Berührungen` auf deinem micro:bit anzeigen. Ziehe dazu zuerst einen `Zeige-Nummer-` Block von 'Basic' an das Ende deines Skripts.
 
-![screenshot](images/frustration-show.png)
+![Bildschirmfoto](images/frustration-show.png)
 
-+ Then drag `fails` from 'Variables' into your `set block`.
++ Ziehe dann `berührungen` aus 'Variablen' in deinen `Setze-Block`.
 
-![screenshot](images/frustration-show-fails.png)
+![Bildschirmfoto](images/frustration-show-fails.png)
 
-+ Click 'run' to test your script. Clicking button A should display the number of fails, which has been set to `0`.
++ Klicke auf "Ausführen", um dein Skript zu testen. Durch Klicken auf die Schaltfläche A sollte die Anzahl der Berührungen angezeigt werden, die vorher auf `0` gesetzt wurde.
 
-![screenshot](images/frustration-fails-test.png)
+![Bildschirmfoto](images/frustration-fails-test.png)
