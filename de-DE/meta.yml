@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-description: Guide a wand along a course without making contact.
+description: Führe einen Zauberstab entlang eines Drahtes, ohne den Draht zu berühren.
 original_url: https://codeclubprojects.org/en-GB/microbit/frustration
 interests: games
 technologies: microbit
@@ -18,16 +18,16 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
   - 
-    title: Introduction
+    title: Einleitung
   - 
-    title: Storing fails
+    title: Berührungen zählen
   - 
-    title: 'Challenge: Display an image'
+    title: 'Herausforderung: Zeige ein Bild an'
   - 
-    title: Keeping track of fails
+    title: Berührungen zählen
   - 
-    title: Building your game
+    title: Baue dein Spiel
   - 
-    title: 'Challenge: Cheat mode!'
+    title: 'Herausforderung: Schummeln!'
   - 
-    title: 'Challenge: Personalise your game'
+    title: 'Herausforderung: Mache dein Spiel persönlicher'
