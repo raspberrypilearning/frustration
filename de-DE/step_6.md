@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Cheat mode!
+## Herausforderung: Schummeln!
 
-Can you add a cheat to your game, so that pressing button B reduces your score by 1?
+Kannst du deinem Spiel die Möglichkeit zu Schummeln hinzufügen, so dass das Drücken von Knopf B deine Punktzahl um 1 verringert?
 
-\--- /challenge \---
+Und ergänze den CSS-Code in <0>style.css</0>, um das Bild zu positionieren.
