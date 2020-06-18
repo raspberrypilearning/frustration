@@ -1,35 +1,35 @@
-## Building your game
+## ابن لعبتك
 
-Now that you've coded your game, let's put it all together!
+الآن بعد أن قمت ببرمجة لعبتك، دعنا نجمعها معًا!
 
-+ First, let's make your wand. Take a piece of wire about 20cm long and bend it in half, making a loop at the top.
++ اولًا، دعنا نصنع العصا الخاصة بك. خذ قطعة من سلك بطول 20سم و اثنيها إلى نصفين، لعمل حلقة في الأعلى.
 
-![screenshot](images/frustration-wand-bend.png)
+![لقطة شاشة](images/frustration-wand-bend.png)
 
-+ You can then twist the two pieces of wire together.
++ ثم يمكنك لف قطعتي السلك مع بعضهما.
 
-![screenshot](images/frustration-wand-twist.png)
+![لقطة شاشة](images/frustration-wand-twist.png)
 
-+ To make the course, take another piece of wire about 30cm long and bend the middle part of the wire into shape. You should bend up one end of the course.
++ لعمل الدورة، خذ قطعة أخرى من السلك بطول حوالي 30 سم و اثني الجزء الوسطي من السلك إلى شكل. يجب أن تثني أحدى نهايات الدورة.
 
-![screenshot](images/frustration-course-bend.png)
+![لقطة الشاشة](images/frustration-course-bend.png)
 
-+ If you have some electrical tape, wrap some around the two ends of the wire, leaving some exposed metal at both ends.
++ إذا كان لديك القليل من الشريط الكهربائي، لف بعضًا منه على نهايتي السلك، اترك بعض المعدن المكشوف في كلا النهايتين.
 
-![screenshot](images/frustration-course-tape.png)
+![لقطة الشاشة](images/frustration-course-tape.png)
 
-+ Slide your wand through your course, and push the ends of your wire into some putty to stand it up.
++ مرر عصاتك خلال الدورة، و ادفع نهايات سلكك إلى بعض المعجون لوقوفه.
 
-![screenshot](images/frustration-course-putty.png)
+![لقطة الشاشة](images/frustration-course-putty.png)
 
-+ You can now connect your game to your micro:bit using a crocodile clip lead or some wire. Firstly, connect the ground pin (GND) to one end of your course.
++ يمكنك الآن توصيل لعبتك إلى المايكروبت الخاص بك micro:bit باستخدام سلك مشبك أو بعض الأسلاك. اولًا، وصل أرضية الدبوس (GND) إلى احدى نهايات دورتك.
 
-![screenshot](images/frustration-gnd-connect.png)
+![لقطة الشاشة](images/frustration-gnd-connect.png)
 
-+ You can then connect Pin 0 to your wand.
++ ثم يمكنك ربط Pin0 بالعصا الخاصة بك.
 
-![screenshot](images/frustration-pin0-connect.png)
+![لقطة الشاشة](images/frustration-pin0-connect.png)
 
-+ Test your game. Press button A and your score should be set to 0. Each time your wand touches the course, the circuit is completed and your micro:bit should add 1 to your number of fails.
++ اختبر لعبتك. اضغط على الزر A و يجب أن يتم تعيين نتيجتك إلى 0. في كل مرة تلمس فيها عصاك الدورة، الدائرة تكتمل و المايكروبت micro:bit الخاص بك سوف يضيف 1 إلى عدد الإخفاقات.
 
-![screenshot](images/frustration-final.png)
+![لقطة الشاشة](images/frustration-final.png)
