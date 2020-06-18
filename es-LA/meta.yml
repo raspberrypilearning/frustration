@@ -1,0 +1,33 @@
+---
+title: Frustración
+hero_image: images/frustration.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+description: Guíe una varita a lo largo de un curso sin hacer contacto.
+original_url: https://codeclubprojects.org/en-GB/microbit/frustration
+interests: games
+technologies: microbit
+site_areas: projects
+hardware: microbit
+software: ''
+version: 3.0.1
+last_tested: 2019-03-06
+steps:
+  - 
+    title: Introducción
+  - 
+    title: Fallo en el almacenamiento
+  - 
+    title: 'Desafío: Mostrar una imagen'
+  - 
+    title: Seguimiento de fallas
+  - 
+    title: Construyendo tu juego
+  - 
+    title: 'Desafío: ¡Modo trampa!'
+  - 
+    title: 'Desafío: Personaliza tu juego'
