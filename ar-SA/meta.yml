@@ -1,5 +1,5 @@
 ---
-title: Frustration
+title: الإحباط
 hero_image: images/frustration.png
 theme: turquoise
 duration: 2
@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-description: Guide a wand along a course without making contact.
+description: توجيه عصا على طول مسار دون الاتصال.
 original_url: https://codeclubprojects.org/en-GB/microbit/frustration
 interests: games
 technologies: microbit
@@ -18,16 +18,16 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Storing fails
+    title: تخزين الإخفاقات
   - 
-    title: 'Challenge: Display an image'
+    title: 'التحدي: عرض الصورة'
   - 
-    title: Keeping track of fails
+    title: تتبع الإخفاقات
   - 
-    title: Building your game
+    title: ابنِ لعبتك
   - 
-    title: 'Challenge: Cheat mode!'
+    title: 'التحدي: وضع الغش!'
   - 
-    title: 'Challenge: Personalise your game'
+    title: 'التحدي: أضف الطابع الشخصي للعبتك'
