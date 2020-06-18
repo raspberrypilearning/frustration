@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Personalise your game
+## Herausforderung: Passe dein Spiel an
 
-Get some friends to try out your game. If your game is too easy, you can make it harder by:
+Hole dir ein paar Freunde, um dein Spiel auszuprobieren. Wenn dein Spiel zu einfach ist, kannst du es schwieriger machen, indem du:
 
-- Creating a longer course;
-- Adding more bends to your course;
-- Making a wand with a smaller gap.
+- Einen längeren Kurs erstellst;
+- Weitere Kurven zu deinem Draht hinzufügst;
+- Einen Zauberstab mit einer kleineren Lücke herstellst.
 
 \--- /challenge \---
