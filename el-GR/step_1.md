@@ -15,7 +15,7 @@ For this project you'll need some additional items:
 * Electrical tape (optional);
 * Crocodile clip leads (optional).
 
-![screenshot](images/frustration-items.png)
+![στιγμιότυπο οθόνης](images/frustration-items.png)
 
 ### Additional information for club leaders
 
