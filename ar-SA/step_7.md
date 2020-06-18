@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Personalise your game
+## التحدي: أضف الطابع الشخصي للعبتك
 
-Get some friends to try out your game. If your game is too easy, you can make it harder by:
+احصل على بعض الأصدقاء لتجربة لعبتك. إذا كانت لعبتك سهلة للغاية يمكنك جعلها أصعب من خلال:
 
-- Creating a longer course;
-- Adding more bends to your course;
-- Making a wand with a smaller gap.
+- إنشاء دورة اطول;
+- أضف انحناءات أكثر لدورتك;
+- اصنع عصا بفجوة أصغر.
 
 \--- /challenge \---
