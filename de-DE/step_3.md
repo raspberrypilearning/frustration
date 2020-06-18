@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: Display an image
+## Herausforderung: Zeige ein Bild an
 
-Can you display an image for 1 second (1000ms) before the number of `fails` are displayed?
+Kannst du ein Bild für 1 Sekunde (1000 ms) anzeigen, bevor die Anzahl von `Berührungen` angezeigt wird?
 
-![screenshot](images/frustration-start-img.png)
+![Bildschirmfoto](images/frustration-start-img.png)
 
-You'll need to use the following blocks from Basic do to this:
+Dazu musst du die folgenden Blöcke von Basic verwenden:
 
-![screenshot](images/frustration-blocks.png)
+![Bildschirmfoto](images/frustration-blocks.png)
 
-![screenshot](images/frustration-blocks2.png)
+![Bildschirmfoto](images/frustration-blocks2.png)
 
 \--- /challenge \---
