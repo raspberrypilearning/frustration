@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Herausforderung: Passe dein Spiel an
+## Herausforderung: Mache dein Spiel persönlicher
 
 Hole dir ein paar Freunde, um dein Spiel auszuprobieren. Wenn dein Spiel zu einfach ist, kannst du es schwieriger machen, indem du:
 
