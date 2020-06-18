@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Cheat mode!
+## التحدي: وضع الغش!
 
-Can you add a cheat to your game, so that pressing button B reduces your score by 1?
+هل يمكنك إضافة غش إلى لعبتك، بحيث يؤدي الضغط على الزر B إلى تقليل نقاطك بمقدار 1؟
 
 \--- /challenge \---
