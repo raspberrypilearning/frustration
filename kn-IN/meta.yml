@@ -1,0 +1,26 @@
+---
+title: ಹತಾಶೆ
+hero_image: images/frustration.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+description: ಸಂಪರ್ಕವನ್ನು ಮಾಡದೆ ಹಾದಿ ಉದ್ದಕ್ಕೂ ದಂಡವನ್ನು ಮಾರ್ಗದರ್ಶಿಸಿ.
+original_url: https://codeclubprojects.org/en-GB/microbit/frustration
+interests: games
+technologies: microbit
+site_areas: projects
+hardware: microbit
+software: ''
+version: 3.0.1
+last_tested: 2019-03-06
+steps:
+  - title: ಪರಿಚಯ
+  - title: ವಿಫಲ ಪ್ರಯತ್ನದ ವಿವರಗಳ ಸಂಗ್ರಹ
+  - title: 'ಸವಾಲು: ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸಿ'
+  - title: ವಿಫಲತೆಗಳ ಜಾಡನ್ನು ಇಡುವುದು
+  - title: ನಿಮ್ಮ ಆಟವನ್ನು ನಿರ್ಮಿಸುವುದು
+  - title: 'ಸವಾಲು: ಮೋಸದ ರೀತಿ!'
+  - title: 'ಸವಾಲು: ನಿಮ್ಮ ಆಟವನ್ನು ವೈಯಕ್ತೀಕರಿಸಿ'
