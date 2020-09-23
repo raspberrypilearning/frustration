@@ -4,15 +4,15 @@ Beginnen wir mit der Erstellung eines Speicherorts für die Anzahl der Berührun
 
 + Rufe <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> auf, um ein neues Projekt im MakeCode (PXT) -Editor zu starten. Nenne dein neues Projekt "Frustration".
 
-+ Lösche die `für immer` und `starte` Blöcke, indem du sie auf die Palette ziehst:
++ Lösche die `dauerhaft` und `beim Start` Blöcke, indem du sie auf die Palette ziehst:
 
 ![Bildschirmfoto](images/frustration-bin.png)
 
-+ Ein neues Spiel sollte beginnen, wenn du die Taste A drückst. Klicke auf 'Eingabe' und dann auf `Taste A gedrückt`.
++ Ein neues Spiel sollte beginnen, wenn du die Taste A drückst. Klicke auf 'Eingabe' und dann auf `wenn Knopf A gedrückt`.
 
 ![Bildschirmfoto](images/frustration-onPressA.png)
 
-+ Jetzt benötigst du eine Variable, um zu speichern, wie oft du den Draht mit dem Zauberstab berührt hast. Klicke auf "Variablen" und dann auf "Neue Variable erstellen". Nenne die Variable `Berührungen`.
++ Jetzt benötigst du eine Variable, um zu speichern, wie oft du den Draht mit dem Zauberstab berührt hast. Klicke auf "Variablen" und dann auf "Erstelle eine Variable...". Nenne die Variable `Berührungen`.
 
 ![Bildschirmfoto](images/frustration-variable.png)
 
