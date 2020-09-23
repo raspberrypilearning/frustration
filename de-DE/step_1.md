@@ -1,6 +1,6 @@
 ## Einleitung
 
-Du wirst ein Spiel bauen, in dem die Spieler einen Zauberstab entlang eines Drahtes führen müssen, ohne den Draht zu berühren. Wenn du den Draht berührst, erhöht sich deine Punktzahl um eins - Die Spielerin mit der niedrigsten Punktzahl gewinnt!
+Du wirst ein Spiel bauen, in dem die Spieler einen Zauberstab entlang eines Drahtes führen müssen, ohne den Draht zu berühren. Wenn du den Draht berührst, erhöht sich deine Punktzahl um eins - Der Spieler/Die Spielerin mit der niedrigsten Punktzahl gewinnt!
 
 **Anleitung**: Wenn du dies online liest, drücke **A** auf dem micro:bit unten, um das Spiel zu starten, und berühre dann Pin **0**, um eine Berührung anzuzeigen.
 
