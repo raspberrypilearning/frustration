@@ -2,7 +2,7 @@
 
 Laten we beginnen met het creëren van een plaats om het aantal mislukkingen op te slaan.
 
-+ Ga naar <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> om een ​​nieuw project te starten in de MakeCode (PXT) editor. Noem je nieuwe project 'Zenuwspiraal'.
++ Ga naar <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> om een nieuw project te starten in de MakeCode (PXT) editor. Noem je nieuwe project 'Zenuwspiraal'.
 
 + Verwijder de `de hele tijd` en `bij opstarten` blokken door ze naar de commando-lijst te slepen:
 
@@ -12,7 +12,7 @@ Laten we beginnen met het creëren van een plaats om het aantal mislukkingen op 
 
 ![schermafbeelding](images/frustration-onPressA.png)
 
-+ Nu heb je een variabele nodig om het aantal keren dat je in het spel mislukt op te slaan. Klik op 'Variabelen' en vervolgens op 'Maak een variabele....'. Noem de variabel `mislukt`.
++ Nu heb je een variabele nodig om het aantal keren dat je in het spel mislukt op te slaan. Klik op 'Variabelen' en vervolgens op 'Maak een variabele....'. Noem de variabele `mislukt`.
 
 ![schermafbeelding](images/frustration-variable.png)
 
