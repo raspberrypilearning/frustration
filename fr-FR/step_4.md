@@ -1,33 +1,27 @@
-## Compter le nombre d'échecs
+## Garder la trace des échecs
 
-Ajoutons le code qui compte le nombre d'échecs.
+Ajoutons du code pour garder une trace des échecs.
 
-+ Tu vas ajouter 1 à la variable `fails` chaque fois qu'une connexion est faite sur la broche P0.
-  Pour cela, prend un bloc `lorsque le pin P0 est pressé` dans 'Entrées'.
++ Tu vas ajouter 1 à la variable `echec` chaque fois qu'une connexion est faite sur la broche P0. Pour cela, prend un bloc `lorsque la broche P0 est activée` dans « Entrées ».
 
-![screenshot](images/frustration-pressPin0.png)
+![capture d'écran](images/frustration-pressPin0.png)
 
-+ Ensuite, ajoute 2 blocs pour afficher une croix pendant 1 seconde lorsque la broche P0 est pressée.
++ Ensuite, ajoute 2 blocs pour afficher une croix pendant 1 seconde lorsque la broche P0 est activée.
 
-![screenshot](images/frustration-pin0-x.png)
+![capture d’écran](images/frustration-pin0-x.png)
 
-+ Tu devras ensuite ajouter 1 à la variable `échecs`.
-  Pour cela, prend un bloc `changer item par 1` dans 'Variables' et remplace `item` par `échecs`.
++ Tu devras ensuite ajouter 1 à la variable `echecs`. Pour cela, prend un bloc `modifier objet de 1` dans « Variables » et remplace `objet` par `echecs`. 
 
-![screenshot](images/frustration-pin0-fails.png)
+![capture d'écran](images/frustration-pin0-fails.png)
 
-+ Enfin, tu peux ajouter le code pour afficher le nombre d'`échecs` mis à jour.
-  Voilà à quoi devrait ressembler ton code.
++ Enfin, tu peux ajouter du code pour afficher le nombre d'échecs mis à jour. Voici à quoi devrait ressembler ton code.
 
-![screenshot](images/frustration-pin0-code.png)
+![capture d'écran](images/frustration-pin0-code.png)
 
-+ Teste ton code en appuyant sur le bouton A de l'émulateur pour démarrer le jeu.
-  Chaque fois que tu appuies sur la broche P0, tu devrais voir la variable `échecs` augmenter de 1.
++ Teste ton code en appuyant sur le bouton A de l'émulateur pour démarrer ton jeu. Chaque fois que tu appuies sur la broche P0, tu devrais voir la variable `echecs` augmenter de 1.
 
-![screenshot](images/frustration-pin0-test.png)
+![capture d'écran](images/frustration-pin0-test.png)
 
-+ Clique sur 'Télécharger' et transfère ton script sur ton micro:bit.
-  Tu peux appuyer sur la broche P0 en fermant le circuit.
-  Pour cela, place ton pouce droit sur la masse (broche GND) et touche la broche P0 avec ton pouce gauche.
++ Clique sur « Télécharger » et transfère ton script sur ton micro:bit. Tu peux appuyer sur la broche P0 en fermant le circuit. Pour cela, place ton pouce droit sur la masse (broche GND) et touche la broche P0 avec ton pouce gauche.
 
-![screenshot](images/frustration-pin0-compile.png)
+![capture d'écran](images/frustration-pin0-compile.png)
