@@ -1,35 +1,35 @@
-## Building your game
+## Construire ton jeu
 
-Now that you've coded your game, let's put it all together!
+Maintenant que tu as programmé ton jeu, assemblons tout ensemble !
 
-+ First, let's make your wand. Take a piece of wire about 20cm long and bend it in half, making a loop at the top.
++ D'abord, créons une baguette. Prends un morceau de fil de fer d'environ 20 cm de long et replie-le en deux, en créant un boucle à l'extrémité.
 
-![screenshot](images/frustration-wand-bend.png)
+![capture d'écran](images/frustration-wand-bend.png)
 
-+ You can then twist the two pieces of wire together.
++ Tu peux ensuite entortiller les 2 extrémités du fil ensemble.
 
-![screenshot](images/frustration-wand-twist.png)
+![capture d’écran](images/frustration-wand-twist.png)
 
-+ To make the course, take another piece of wire about 30cm long and bend the middle part of the wire into shape. You should bend up one end of the course.
++ Pour faire le circuit, prends une autre morceau de fil d'environ 30 cm de long et tords la partie centrale du fil pour lui donner une forme biscornue. Tu devras tordre vers le haut une des extrémités du circuit.
 
-![screenshot](images/frustration-course-bend.png)
+![capture d'écran](images/frustration-course-bend.png)
 
-+ If you have some electrical tape, wrap some around the two ends of the wire, leaving some exposed metal at both ends.
++ Si tu as du ruban adhésif isolant, enveloppe les 2 extrémités du circuit, en laissant dépasser un peu de métal à chacune des extrémités.
 
-![screenshot](images/frustration-course-tape.png)
+![capture d'écran](images/frustration-course-tape.png)
 
-+ Slide your wand through your course, and push the ends of your wire into some putty to stand it up.
++ Enfile ta baguette sur le circuit, et pique les extrémités du fil dans la pâte à modeler pour que le circuit tienne debout tout seul.
 
-![screenshot](images/frustration-course-putty.png)
+![capture d'écran](images/frustration-course-putty.png)
 
-+ You can now connect your game to your micro:bit using a crocodile clip lead or some wire. Firstly, connect the ground pin (GND) to one end of your course.
++ Tu peux brancher ton jeu à ton micro:bit en utilisant des pinces crocodiles ou du fil. Connecte d'abord la masse (broche GND) à l'une des extrémités du circuit.
 
-![screenshot](images/frustration-gnd-connect.png)
+![capture d'écran](images/frustration-gnd-connect.png)
 
-+ You can then connect Pin 0 to your wand.
++ Tu peux ensuite connecter la broche P0 à ta baguette.
 
-![screenshot](images/frustration-pin0-connect.png)
+![capture d'écran](images/frustration-pin0-connect.png)
 
-+ Test your game. Press button A and your score should be set to 0. Each time your wand touches the course, the circuit is completed and your micro:bit should add 1 to your number of fails.
++ Teste ton jeu. Appuie sur le bouton A et ton score sera remis à 0. Chaque fois que ta baguette touche le circuit, le courant passe entre la baguette et le circuit et ton micro:bit ajoute 1 au nombre d'échecs.
 
-![screenshot](images/frustration-final.png)
+![capture d'écran](images/frustration-final.png)
