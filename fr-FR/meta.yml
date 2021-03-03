@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-description: Guide a wand along a course without making contact.
+description: Guider une baguette le long d'un circuit sans le toucher.
 original_url: https://codeclubprojects.org/en-GB/microbit/frustration
 interests: games
 technologies: microbit
@@ -20,14 +20,14 @@ steps:
   - 
     title: Introduction
   - 
-    title: Storing fails
+    title: Stocker les échecs
   - 
-    title: 'Challenge: Display an image'
+    title: 'Défi : Afficher une image'
   - 
-    title: Keeping track of fails
+    title: Garder la trace des échecs
   - 
-    title: Building your game
+    title: Construire ton jeu
   - 
-    title: 'Challenge: Cheat mode!'
+    title: 'Défi: Mode triche !'
   - 
-    title: 'Challenge: Personalise your game'
+    title: 'Défi: Personnalise ton jeu'
