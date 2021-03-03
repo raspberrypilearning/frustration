@@ -1,35 +1,35 @@
-## Storing fails
+## Stocker les échecs
 
-Let's start by creating a place to store the number of fails.
+Commençons par créer un endroit où stocker le nombre d'échecs.
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Frustration'.
++ Va sur <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> pour démarrer un nouveau projet dans l'éditeur MakeCode (PXT). Appelle ton nouveau projet « Frustration ».
 
-+ Delete the `forever` and `start` blocks by dragging them to the palette:
++ Supprime les blocs `toujours` et `au démarrage` en les faisant glisser vers la palette :
 
-![screenshot](images/frustration-bin.png)
+![capture d'écran](images/frustration-bin.png)
 
-+ A new game should start when the player presses button A. Click 'Input' and then `on button A pressed`.
++ Une nouvelle partie commence quand le joueur appuie sur le bouton A. Clique sur « Entrée », puis `lorsque le bouton A est pressé`.
 
-![screenshot](images/frustration-onPressA.png)
+![capture d’écran](images/frustration-onPressA.png)
 
-+ Now you need a variable to store the number of times you fail in the game by touching the wire with the wand. Click on 'Variables' and then 'Make a new Variable'. Name the variable `fails`.
++ Maintenant tu as besoin d'une variable pour stocker le nombre de fois où tu vas échouer en touchant le fil avec la baguette. Clique sur « Variables », puis « Créer une variable ». Nomme la variable `echecs`.
 
-![screenshot](images/frustration-variable.png)
+![capture d'écran](images/frustration-variable.png)
 
-+ Drag a `set` block from 'Variables' and select `fails`:
++ Place un bloc `définir ... à` depuis « Variables » et sélectionne `echecs` :
 
-![screenshot](images/frustration-fails.png)
+![capture d'écran](images/frustration-fails.png)
 
-This will set the number of fails to zero when you press the A button.
+Ceci mettra à zéro le nombre d'échecs quand on appuie sur le bouton A.
 
-+ Finally, you can display the number of `fails` on your micro:bit. To do this, first drag a `show number` block from 'Basic' to the end of your script.
++ Enfin, tu peux afficher le nombre d'`échecs` sur ton micro:bit. Pour cela, place un bloc `montrer nombre`, depuis « Base », à la fin du script.
 
-![screenshot](images/frustration-show.png)
+![capture d'écran](images/frustration-show.png)
 
-+ Then drag `fails` from 'Variables' into your `set block`.
++ Ensuite place `echecs` depuis « Variables » dans le bloc `montrer nombre`.
 
-![screenshot](images/frustration-show-fails.png)
+![capture d'écran](images/frustration-show-fails.png)
 
-+ Click 'run' to test your script. Clicking button A should display the number of fails, which has been set to `0`.
++ Clique sur « lancer » pour tester ton script. Cliquer sur le bouton A devrait afficher le nombre d'échecs, qui a été mis à `0`.
 
-![screenshot](images/frustration-fails-test.png)
+![capture d'écran](images/frustration-fails-test.png)
