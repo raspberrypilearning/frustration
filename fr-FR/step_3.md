@@ -1,14 +1,15 @@
 --- challenge ---
+
 ## Défi : Afficher une image
 
-Sauras-tu afficher une image pendant 1 seconde (1000ms) avant que le nombre d'`échecs` soit affiché&nbsp;?
+Sauras-tu afficher une image pendant 1 seconde (1000 ms) avant que le nombre d'`échecs` soit affiché ?
 
-![screenshot](images/frustration-start-img.png)
+![capture d’écran](images/frustration-start-img.png)
 
-Tu devras utiliser les blocs suivants depuis Basique pour atteindre ton but&nbsp;:
+Tu devras utiliser les blocs suivants depuis Base pour atteindre ton but :
 
-![screenshot](images/frustration-blocks.png)
+![capture d'écran](images/frustration-blocks.png)
 
-![screenshot](images/frustration-blocks2.png)
+![capture d'écran](images/frustration-blocks2.png)
 
 --- /challenge ---

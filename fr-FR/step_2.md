@@ -2,40 +2,34 @@
 
 Commençons par créer un endroit où stocker le nombre d'échecs.
 
-+ Va sur <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> pour démarrer un nouveau projet dans l'éditeur PXT.
-  Appelle ton nouveau projet 'Frustration'.
++ Va sur <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> pour démarrer un nouveau projet dans l'éditeur MakeCode (PXT). Appelle ton nouveau projet « Frustration ».
 
-+ Supprime les blocs `toujours` et `au démarrage ` en les déplaçant sur la palette, dans la corbeille&nbsp;:
++ Supprime les blocs `toujours` et `au démarrage` en les faisant glisser vers la palette :
 
-![screenshot](images/frustration-bin.png)
+![capture d'écran](images/frustration-bin.png)
 
-+ Une nouvelle partie commence quand le joueur appuie sur le bouton A.
-  Clique sur 'Entrée', puis `lorsque le bouton A est pressé`.
++ Une nouvelle partie commence quand le joueur appuie sur le bouton A. Clique sur « Entrée », puis `lorsque le bouton A est pressé`.
 
-![screenshot](images/frustration-onPressA.png)
+![capture d’écran](images/frustration-onPressA.png)
 
-+ Maintenant tu as besoin d'une variable pour stocker le nombre de fois où tu vas échouer et toucher le fil avec la baguette.
-  Clique sur 'Variables', puis 'Créer une variable'.
-  Nomme la variable `échecs`.
++ Maintenant tu as besoin d'une variable pour stocker le nombre de fois où tu vas échouer en touchant le fil avec la baguette. Clique sur « Variables », puis « Créer une variable ». Nomme la variable `echecs`.
 
-![screenshot](images/frustration-variable.png)
+![capture d'écran](images/frustration-variable.png)
 
-+ Place un bloc `définir ... à` depuis 'Variables' et sélectionne `échecs`&nbsp;:
++ Place un bloc `définir ... à` depuis « Variables » et sélectionne `echecs` :
 
-![screenshot](images/frustration-fails.png)
+![capture d'écran](images/frustration-fails.png)
 
 Ceci mettra à zéro le nombre d'échecs quand on appuie sur le bouton A.
 
-+ Enfin, tu peux afficher le nombre d'`échecs` sur ton micro:bit.
-  Pour cela, place un bloc `montrer nombre`, depuis 'Basique', à la fin du script.
++ Enfin, tu peux afficher le nombre d'`échecs` sur ton micro:bit. Pour cela, place un bloc `montrer nombre`, depuis « Base », à la fin du script.
 
-![screenshot](images/frustration-show.png)
+![capture d'écran](images/frustration-show.png)
 
-+ Ensuite place `échecs` depuis 'Variables' dans le bloc `montrer nombre`.
++ Ensuite place `echecs` depuis « Variables » dans le bloc `montrer nombre`.
 
-![screenshot](images/frustration-show-fails.png)
+![capture d'écran](images/frustration-show-fails.png)
 
-+ Clique sur 'lancer' pour tester ton script.
-  Cliquer sur le bouton A devrait afficher le nombre d'échecs, qui a été mis à `0`.
++ Clique sur « lancer » pour tester ton script. Cliquer sur le bouton A devrait afficher le nombre d'échecs, qui a été mis à `0`.
 
-![screenshot](images/frustration-fails-test.png)
+![capture d'écran](images/frustration-fails-test.png)
