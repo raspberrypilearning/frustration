@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Cheat mode!
+## Défi: Mode triche !
 
-Can you add a cheat to your game, so that pressing button B reduces your score by 1?
+Sauras-tu ajouter un peu de triche dans ton jeu, et faire en sorte qu'appuyer sur le bouton B diminue ton score de 1 ?
 
 \--- /challenge \---
