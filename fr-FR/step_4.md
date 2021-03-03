@@ -1,27 +1,27 @@
-## Keeping track of fails
+## Garder la trace des échecs
 
-Let's add code to keep track of fails.
+Ajoutons du code pour garder une trace des échecs.
 
-+ You're going to add 1 to your `fails` variable every time a connection is made on Pin0. To do this, drag `on pin P0 pressed` from 'Input'.
++ Tu vas ajouter 1 à la variable `echec` chaque fois qu'une connexion est faite sur la broche P0. Pour cela, prend un bloc `lorsque la broche P0 est activée` dans « Entrées ».
 
-![screenshot](images/frustration-pressPin0.png)
+![capture d'écran](images/frustration-pressPin0.png)
 
-+ Next, add 2 blocks to display a cross for 1 second when Pin0 is pressed.
++ Ensuite, ajoute 2 blocs pour afficher une croix pendant 1 seconde lorsque la broche P0 est activée.
 
-![screenshot](images/frustration-pin0-x.png)
+![capture d’écran](images/frustration-pin0-x.png)
 
-+ You'll then need to add 1 to your `fails` variable. To do this, click the drag a `change item by 1` from Variables and change `item` to `fail`. 
++ Tu devras ensuite ajouter 1 à la variable `echecs`. Pour cela, prend un bloc `modifier objet de 1` dans « Variables » et remplace `objet` par `echecs`. 
 
-![screenshot](images/frustration-pin0-fails.png)
+![capture d'écran](images/frustration-pin0-fails.png)
 
-+ Finally, you can add code to display the updated number of fails. Here's how your code should look.
++ Enfin, tu peux ajouter du code pour afficher le nombre d'échecs mis à jour. Voici à quoi devrait ressembler ton code.
 
-![screenshot](images/frustration-pin0-code.png)
+![capture d'écran](images/frustration-pin0-code.png)
 
-+ Test your code by pressing button A on the emulator to start your game. Each time you press Pin0 you should see your `fails` variable increase by 1.
++ Teste ton code en appuyant sur le bouton A de l'émulateur pour démarrer ton jeu. Chaque fois que tu appuies sur la broche P0, tu devrais voir la variable `echecs` augmenter de 1.
 
-![screenshot](images/frustration-pin0-test.png)
+![capture d'écran](images/frustration-pin0-test.png)
 
-+ Click 'Download' and transfer your script onto your micro:bit. You can press Pin0 by completing a circuit. To do this, place your right thumb on the ground pin (GND) and then tap Pin0 with your left thumb.
++ Clique sur « Télécharger » et transfère ton script sur ton micro:bit. Tu peux appuyer sur la broche P0 en fermant le circuit. Pour cela, place ton pouce droit sur la masse (broche GND) et touche la broche P0 avec ton pouce gauche.
 
-![screenshot](images/frustration-pin0-compile.png)
+![capture d'écran](images/frustration-pin0-compile.png)
