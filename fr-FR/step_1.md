@@ -1,77 +1,77 @@
 ## Introduction
 
-You are going to make a game in which players have to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins!
+Tu vas faire un jeu dans lequel les joueurs devront guider un baguette le long d'un circuit sans le toucher. Toucher ajoutera un au score du joueur, le joueur avec le plus petit score gagne !
 
-**Instructions**: If you're reading this online, press **A** on the micro:bit below to start the game, and then touch pin **0** to make a connection.
+**Instructions** : Si tu lis ceci en ligne , appuie sur **A** sur le micro:bit ci-dessous pour démarrer le jeu, puis touche la broche **0** pour faire une connexion.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_FEDEdA3v6e64" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-For this project you'll need some additional items:
+Pour ce projet, tu auras besoin de quelques éléments supplémentaires :
 
-* Metal wire (approx. 50cm);
-* Modelling clay (Plasticine or similar, needs to be non-conductive);
-* Electrical tape (optional);
-* Crocodile clip leads (optional).
+* Fil de fer (environ 50 cm) ;
+* Pâte à modeler (Plasticine ou similaire, doit être non conductible) ;
+* Ruban adhésif isolant (optionnel) ;
+* Pinces crocodile (optionnel).
 
-![screenshot](images/frustration-items.png)
+![capture d'écran](images/frustration-items.png)
 
-### Additional information for club leaders
+### Informations complémentaires pour les responsables de club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/frustration/print).
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/en/projects/frustration/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notes pour le responsable de club
 
-## Introduction:
+## Introduction :
 
-In this project, children will learn how to use variables in making a wire-following game. The aim of the game is to guide a wand along a course without making contact. Making contact will add one to the player's score - the player with the lowest score wins.
+Dans ce projet, les enfants apprendront à utiliser des variables en faisant un jeu où il faut suivre le fil. Le but du jeu est de guider un baguette le long d'un circuit sans le toucher. Toucher ajoutera un au score du joueur, le joueur avec le plus petit score gagne.
 
-## Resources
+## Ressources
 
-To complete this project, children will need:
+Pour mener à bien ce projet, les enfants auront besoin :
 
-* Metal wire (approx. 50cm);
-* Putty;
-* Electrical tape (optional);
-* Crocodile leads (optional).
+* Fil de fer (environ 50 cm) ;
+* Pâte à modeler ;
+* Ruban adhésif isolant (optionnel) ;
+* Pinces crocodile (optionnel).
 
-Steps 1 and 2 of this project can be completed without this equipment.
+Les étapes 1 et 2 de ce projet peuvent être réalisées sans cet équipement.
 
-For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
+Pour ce projet, l'éditeur [MakeCode (PXT)](http://jumpto.cc/pxt-new) devrait être utilisé.
 
-You can find a completed version of this project at [makecode.microbit.org/#pub:71088-38400-20107-39742](https://makecode.microbit.org/#pub:71088-38400-20107-39742), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
+Vous pouvez trouver une version terminée de ce projet sur [makecode.microbit.org/#pub:71088-38400-20107-39742](https://makecode.microbit.org/#pub:71088-38400-20107-39742), et le fichier compilé .hex peut être téléchargé en cliquant sur le lien « Télécharger le matériel du projet » pour ce projet, qui contient :
 
 * Frustration.hex
 
-## Learning Objectives
+## Objectifs d'apprentissage
 
-* Variables;
-* Input/output (I/O) pins.
+* Variables ;
+* Broches d'entrée / sortie (E / S).
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ce projet couvre les éléments des sections suivantes du [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) :
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Utiliser des concepts basiques de programmation pour créer des programmes simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Use basic digital, analogue, and electromechanical components.](https://www.raspberrypi.org/curriculum/physical-computing/creator)
+* [Utiliser des composants basiques numériques, analogiques, ou électromécaniques.](https://www.raspberrypi.org/curriculum/physical-computing/creator)
 
-## Challenges
+## Défis
 
-* "Display an image" - Display an image on the micro:bit before the number of `fails` is displayed.
-* "Cheat mode!" - Subtract 1 from the `fails` variable when button B is pressed.
-* "Personalise your game" - Make changes to the wand and course in order to make the game more difficult.
+* « Afficher une image » - Afficher une images sur le micro:bit avant que le nombre d'`échecs` ne soit affiché.
+* « Mode triche ! » - Soustrait 1 du nombre d'`échecs` lorsque le bouton B est pressé.
+* « Personnalise ton jeu » - Fais des changements dans la baguette et le circuit pour rendre le jeu plus difficile.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Matériel pour projet
 
-## Club leader resources
+## Ressources pour le responsable de club
 
-* [online completed project](https://makecode.microbit.org/#pub:71088-38400-20107-39742)
-* [.hex project file to transfer onto your micro:bit](resources/micro-bit-Frustration.hex)
+* [projet terminé en ligne](https://makecode.microbit.org/#pub:71088-38400-20107-39742)
+* [Fichier projet .hex à transférer sur ton micro:bit](resources/micro-bit-Frustration.hex)
 
 \--- /collapse \---
