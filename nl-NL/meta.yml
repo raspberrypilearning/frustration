@@ -17,10 +17,12 @@ software: ''
 version: 3.0.1
 last_tested: 2019-03-06
 steps:
-  - title: Inleiding
-  - title: Mislukkingen opslaan
-  - title: 'Uitdaging: een afbeelding weergeven'
-  - title: Het bijhouden van mislukkingen
-  - title: Je spel bouwen
-  - title: 'Uitdaging: Vals spelen!'
-  - title: 'Uitdaging: verbeter je spel'
+- title: Inleiding
+  completion: engaged
+- title: Mislukkingen opslaan
+- title: 'Uitdaging: een afbeelding weergeven'
+- title: Het bijhouden van mislukkingen
+- title: Je spel bouwen
+- title: 'Uitdaging: Vals spelen!'
+  completion: internal
+- title: 'Uitdaging: verbeter je spel'

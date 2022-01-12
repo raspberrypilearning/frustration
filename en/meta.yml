@@ -16,11 +16,13 @@ hardware: microbit
 software: ''
 version: 3.0.1
 last_tested: 2019-03-06
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Storing fails
 - title: 'Challenge: Display an image'
 - title: Keeping track of fails
 - title: Building your game
 - title: 'Challenge: Cheat mode!'
+  completion: internal
 - title: 'Challenge: Personalise your game'

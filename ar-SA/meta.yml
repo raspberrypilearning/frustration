@@ -17,10 +17,12 @@ software: ''
 version: 3.0.1
 last_tested: 2019-03-06
 steps:
-  - title: المقدمة
-  - title: تخزين الإخفاقات
-  - title: 'التحدي: عرض الصورة'
-  - title: تتبع الإخفاقات
-  - title: ابنِ لعبتك
-  - title: 'التحدي: وضع الغش!'
-  - title: 'التحدي: أضف الطابع الشخصي للعبتك'
+- title: المقدمة
+  completion: engaged
+- title: تخزين الإخفاقات
+- title: 'التحدي: عرض الصورة'
+- title: تتبع الإخفاقات
+- title: ابنِ لعبتك
+- title: 'التحدي: وضع الغش!'
+  completion: internal
+- title: 'التحدي: أضف الطابع الشخصي للعبتك'
