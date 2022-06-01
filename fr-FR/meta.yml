@@ -17,10 +17,14 @@ software: ''
 version: 3.0.1
 last_tested: 2019-03-06
 steps:
-  - title: Introduction
-  - title: Stocker les échecs
-  - title: 'Défi : Afficher une image'
-  - title: Garder la trace des échecs
-  - title: Construire ton jeu
-  - title: 'Défi : Mode triche !'
-  - title: 'Défi : Personnalise ton jeu'
+- title: Introduction
+- title: Stocker les échecs
+- title: 'Défi : Afficher une image'
+- title: Garder la trace des échecs
+  completion:
+  - engaged
+- title: Construire ton jeu
+  completion:
+  - internal
+- title: 'Défi : Mode triche !'
+- title: 'Défi : Personnalise ton jeu'

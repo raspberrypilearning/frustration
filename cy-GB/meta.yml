@@ -17,10 +17,14 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Cyflwyniad
-  - title: Storio methiannau
-  - title: 'Her: Arddangos delwedd'
-  - title: Cadw cofnod o fethiannau
-  - title: Adeiladu eich gêm
-  - title: 'Her: Modd twyllo!'
-  - title: 'Her: Personoli''ch gêm'
+- title: Cyflwyniad
+- title: Storio methiannau
+- title: 'Her: Arddangos delwedd'
+- title: Cadw cofnod o fethiannau
+  completion:
+  - engaged
+- title: Adeiladu eich gêm
+  completion:
+  - internal
+- title: 'Her: Modd twyllo!'
+- title: 'Her: Personoli''ch gêm'
