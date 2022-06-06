@@ -18,11 +18,13 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
 - title: ಪರಿಚಯ
-  completion: engaged
 - title: ವಿಫಲ ಪ್ರಯತ್ನದ ವಿವರಗಳ ಸಂಗ್ರಹ
 - title: 'ಸವಾಲು: ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸಿ'
 - title: ವಿಫಲತೆಗಳ ಜಾಡನ್ನು ಇಡುವುದು
+  completion:
+  - engaged
 - title: ನಿಮ್ಮ ಆಟವನ್ನು ನಿರ್ಮಿಸುವುದು
+  completion:
+  - internal
 - title: 'ಸವಾಲು: ಮೋಸದ ರೀತಿ!'
-  completion: internal
 - title: 'ಸವಾಲು: ನಿಮ್ಮ ಆಟವನ್ನು ವೈಯಕ್ತೀಕರಿಸಿ'

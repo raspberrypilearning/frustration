@@ -18,11 +18,13 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Berührungen speichern
 - title: 'Herausforderung: Zeige ein Bild an'
 - title: Das Verfolgen von Berührungen
+  completion:
+  - engaged
 - title: Baue dein Spiel
+  completion:
+  - internal
 - title: 'Herausforderung: Schummeln!'
-  completion: internal
 - title: 'Herausforderung: Mache dein Spiel persönlicher'
