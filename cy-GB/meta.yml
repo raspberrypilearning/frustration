@@ -25,8 +25,12 @@ steps:
     title: 'Her: Dangos delwedd'
   - 
     title: Cadw cofnod o fethiannau
+    completion:
+      - engaged
   - 
     title: Adeiladu eich gêm
+    completion:
+      - internal
   - 
     title: 'Her: Modd twyllo!'
   - 
