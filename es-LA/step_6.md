@@ -2,6 +2,6 @@
 
 ## Desafío: ¡Modo trampa!
 
-¿Puede agregar un truco a su juego, de modo que al presionar el botón B se le reduce 1 punto?
+¿Puedes agregar una trampa a tu juego, de modo que al presionar el botón B se el puntaje se reduce 1 punto?
 
 \--- /challenge \---
