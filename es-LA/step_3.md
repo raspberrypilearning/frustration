@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Display an image
+## Desafío: Mostrar una imagen
 
-¿Puede mostrar una imagen por 1 segundo (1000ms) antes de que se muestre el número de `fallos`?
+¿Puedes mostrar una imagen por 1 segundo (1000ms) antes de que se muestre el número de `fallos`?
 
 ![captura de pantalla](images/frustration-start-img.png)
 
-Necesitará usar los siguientes bloques de Basic para hacer esto:
+Necesitarás usar los siguientes bloques de Basico para hacer esto:
 
 ![captura de pantalla](images/frustration-blocks.png)
 
