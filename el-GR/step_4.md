@@ -1,27 +1,27 @@
-## Keeping track of fails
+## Καταγράφοντας τις αποτυχίες
 
-Let's add code to keep track of fails.
+Ας προσθέσουμε κώδικα για να καταγράφουμε τις αποτυχίες.
 
-+ You're going to add 1 to your `fails` variable every time a connection is made on Pin0. To do this, drag `on pin P0 pressed` from 'Input'.
++ Θα προσθέτεις 1 στη μεταβλητή `αποτυχίες` κάθε φορά που γίνεται σύνδεση στο Pin0. Για να το κάνεις αυτό, σύρε το μπλοκ `όταν πιεστεί ο ακροδέκτης P0 ` από το μενού 'Είσοδος'.
 
-![screenshot](images/frustration-pressPin0.png)
+![στιγμιότυπο οθόνης](images/frustration-pressPin0.png)
 
-+ Next, add 2 blocks to display a cross for 1 second when Pin0 is pressed.
++ Στη συνέχεια, πρόσθεσε 2 μπλοκ για να εμφανιστεί ένας σταυρός για 1 δευτερόλεπτο όταν πατηθεί το Pin0.
 
-![screenshot](images/frustration-pin0-x.png)
+![στιγμιότυπο οθόνης](images/frustration-pin0-x.png)
 
-+ You'll then need to add 1 to your `fails` variable. To do this, click the drag a `change item by 1` from Variables and change `item` to `fail`. 
++ Θα χρειαστεί να προσθέσεις 1 στη μεταβλητή `αποτυχίες`. Για να το κάνεις αυτό, σύρε ένα μπλοκ `άλλαξε κατά 1` από το μενού Μεταβλητές και επίλεξε τη μεταβλητή `αποτυχίες` ως το `στοιχείο` που θα αλλάξει. 
 
-![screenshot](images/frustration-pin0-fails.png)
+![στιγμιότυπο οθόνης](images/frustration-pin0-fails.png)
 
-+ Finally, you can add code to display the updated number of fails. Here's how your code should look.
++ Τέλος, μπορείς να προσθέσεις κώδικα για να εμφανίσεις τον ενημερωμένο αριθμό αποτυχιών. Ο κώδικάς σου πρέπει να είναι κάπως έτσι.
 
-![screenshot](images/frustration-pin0-code.png)
+![στιγμιότυπο οθόνης](images/frustration-pin0-code.png)
 
-+ Test your code by pressing button A on the emulator to start your game. Each time you press Pin0 you should see your `fails` variable increase by 1.
++ Δοκίμασε τον κώδικά σου πατώντας το κουμπί Α στον προσομοιωτή για να ξεκινήσεις το παιχνίδι σου. Κάθε φορά που πατάς το Pin0 θα πρέπει να βλέπεις ότι η μεταβλητή `αποτυχίες` αυξάνεται κατά 1.
 
-![screenshot](images/frustration-pin0-test.png)
+![στιγμιότυπο οθόνης](images/frustration-pin0-test.png)
 
-+ Click 'Download' and transfer your script onto your micro:bit. You can press Pin0 by completing a circuit. To do this, place your right thumb on the ground pin (GND) and then tap Pin0 with your left thumb.
++ Κάνε κλικ στη «Λήψη» και μετάφερε το script σου στο micro:bit. Μπορείς να πατήσεις το Pin0 για να κλείσει ένα κύκλωμα. Για να το κάνεις αυτό, τοποθέτησε τον δεξί σου αντίχειρα στον ακροδέκτη γείωσης (GND) και στη συνέχεια πάτησε το Pin0 με τον αριστερό σου αντίχειρα.
 
-![screenshot](images/frustration-pin0-compile.png)
+![στιγμιότυπο οθόνης](images/frustration-pin0-compile.png)
