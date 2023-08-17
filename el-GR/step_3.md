@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: Display an image
+## Πρόκληση: Εμφάνιση εικόνας
 
-Can you display an image for 1 second (1000ms) before the number of `fails` are displayed?
+Μπορείς να εμφανίσεις μια εικόνα για 1 δευτερόλεπτο (1000 ms) πριν εμφανιστεί ο αριθμός των `αποτυχιών`;
 
-![screenshot](images/frustration-start-img.png)
+![στιγμιότυπο οθόνης](images/frustration-start-img.png)
 
-You'll need to use the following blocks from Basic do to this:
+Θα χρειαστεί να χρησιμοποιήσεις τα ακόλουθα μπλοκ από το μενού Βασικά για να το κάνεις αυτό:
 
-![screenshot](images/frustration-blocks.png)
+![στιγμιότυπο οθόνης](images/frustration-blocks.png)
 
-![screenshot](images/frustration-blocks2.png)
+![στιγμιότυπο οθόνης](images/frustration-blocks2.png)
 
 \--- /challenge \---
