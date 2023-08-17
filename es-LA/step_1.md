@@ -1,21 +1,21 @@
-## Introduction
+## Introducción
 
 Vas a crear un juego en el que los jugadores tienen que guiar una varita a lo largo de un curso sin hacer contacto. Hacer contacto agregará un punto al puntaje del jugador - ¡el jugador con la puntuación más baja gana!
 
-** Instrucciones **: Si está leyendo esto en línea, presione ** A ** en el micro: bit de abajo para iniciar el juego, y luego toque el pin ** 0 ** para hacer una conexión.
+** Instrucciones **: Si estás leyendo esto en línea, presiona ** A ** en el micro: bit de abajo para iniciar el juego, y luego toca el pin ** 0 ** para hacer una conexión.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_FEDEdA3v6e64" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-Para este proyecto necesitará algunos elementos adicionales:
+Para este proyecto necesitarás algunos elementos adicionales:
 
 * Alambre de metal (aprox. 50 cm);
 * Arcilla de modelar (plastilina o similar, no debe ser conductora de electricidad);
 * Cinta aislante (opcional);
 * Pinzas de cocodrilo (opcional).
 
-![screenshot](images/frustration-items.png)
+![captura de pantalla](images/frustration-items.png)
 
 ### Información adicional para los líderes del club
 
@@ -27,7 +27,7 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 ## Introducción:
 
-En este proyecto, los niños y niñas aprenderán a cómo utilizar variables para hacer un juego de seguimiento de cables. El objetivo del juego es guiar una varita a lo largo de un curso sin hacer contacto. Hacer contacto agregará un punto al puntaje del jugador - el jugador con la puntuación más baja gana.
+En este proyecto, los niños y niñas aprenderán cómo utilizar variables para hacer un juego de seguimiento de alambre. El objetivo del juego es guiar una varita a lo largo de un curso sin hacer contacto. Hacer contacto agregará un punto al puntaje del jugador - el jugador con la puntuación más baja gana.
 
 ## Recursos
 
@@ -40,9 +40,9 @@ Para completar este proyecto, los niños y niñas necesitarán:
 
 Los pasos 1 y 2 de este proyecto se pueden completar sin este equipo.
 
-Para este proyecto, el editor de microbits [MakeCode (PXT)](http://jumpto.cc/pxt-new) debe ser utilizado.
+Para este proyecto, se debe utilizar el editor de microbit [MakeCode (PXT)](http://jumpto.cc/pxt-new).
 
-Puedes encontrar una versión completa de este proyecto en [makecode.microbit.org/#pub:71088-38400-20107-39742](https://makecode.microbit.org/#pub:71088-38400-20107-39742) y el documento compiled .hex puedes descargarlo haciendo clic en el enlace 'Materiales Descargados del Proyecto', para este proyecto, el cual contiene:
+Puedes encontrar una versión completa de este proyecto en [makecode.microbit.org/#pub:71088-38400-20107-39742](https://makecode.microbit.org/#pub:71088-38400-20107-39742) y puedes descargar el documento compilado .hex haciendo clic en el enlace 'Descarga de Materiales del Proyecto', para este proyecto, el cual contiene:
 
 * Frustration.hex
 
@@ -60,7 +60,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículum Rasp
 ## Desafíos
 
 * "Mostrar una imagen" - Mostrar una imagen en el micro:bit antes de que se muestre el número de `fallos`.
-* "¡Modo Cheat!" - Resta 1 de la variable `falla` cuando se presiona el botón B.
+* "¡Modo trampa!" - Restar 1 a la variable `falla` cuando se presiona el botón B.
 * "Personaliza tu juego" - Realiza cambios a la varita y el curso para hacer el juego más difícil.
 
 \--- /collapse \---
