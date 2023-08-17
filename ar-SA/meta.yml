@@ -25,8 +25,12 @@ steps:
     title: 'التحدي: عرض الصورة'
   - 
     title: تتبع الإخفاقات
+    completion:
+      - engaged
   - 
     title: ابنِ لعبتك
+    completion:
+      - internal
   - 
     title: 'التحدي: وضع الغش!'
   - 
