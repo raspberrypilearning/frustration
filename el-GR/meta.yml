@@ -1,5 +1,5 @@
 ---
-title: Frustration
+title: Διαδρομή για γερά νεύρα
 hero_image: images/frustration.png
 theme: turquoise
 duration: 2
@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-description: Guide a wand along a course without making contact.
+description: Καθοδήγησε ένα ραβδί κατά μήκος μιας διαδρομής χωρίς να την αγγίξεις.
 original_url: https://codeclubprojects.org/en-GB/microbit/frustration
 interests: games
 technologies: microbit
@@ -18,16 +18,20 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: Storing fails
+    title: Αποθήκευση αποτυχιών
   - 
-    title: 'Challenge: Display an image'
+    title: 'Πρόκληση: Εμφάνιση εικόνας'
   - 
-    title: Keeping track of fails
+    title: Καταγράφοντας τις αποτυχίες
+    completion:
+      - engaged
   - 
-    title: Building your game
+    title: Χτίζοντας το παιχνίδι σου
+    completion:
+      - internal
   - 
-    title: 'Challenge: Cheat mode!'
+    title: 'Πρόκληση: Λειτουργία εξαπάτησης!'
   - 
-    title: 'Challenge: Personalise your game'
+    title: 'Πρόκληση: Εξατομίκευσε το παιχνίδι σου'
