@@ -25,8 +25,12 @@ steps:
     title: 'Uitdaging: een afbeelding weergeven'
   - 
     title: Het bijhouden van mislukkingen
+    completion:
+      - engaged
   - 
     title: Je spel bouwen
+    completion:
+      - internal
   - 
     title: 'Uitdaging: Vals spelen!'
   - 
