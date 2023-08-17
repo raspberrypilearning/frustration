@@ -25,8 +25,12 @@ steps:
     title: 'Challenge: Display an image'
   - 
     title: Keeping track of fails
+    completion:
+      - engaged
   - 
     title: Building your game
+    completion:
+      - internal
   - 
     title: 'Challenge: Cheat mode!'
   - 
