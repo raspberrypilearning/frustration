@@ -25,8 +25,12 @@ steps:
     title: 'Herausforderung: Zeige ein Bild an'
   - 
     title: Das Verfolgen von Berührungen
+    completion:
+      - engaged
   - 
     title: Baue dein Spiel
+    completion:
+      - internal
   - 
     title: 'Herausforderung: Schummeln!'
   - 
