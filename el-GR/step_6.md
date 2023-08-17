@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Cheat mode!
+## Πρόκληση: Λειτουργία εξαπάτησης!
 
-Can you add a cheat to your game, so that pressing button B reduces your score by 1?
+Μπορείς να προσθέσεις μια εξαπάτηση στο παιχνίδι σου, ώστε με το πάτημα του κουμπιού B να μειώνει τη βαθμολογία σου κατά 1;
 
 \--- /challenge \---
