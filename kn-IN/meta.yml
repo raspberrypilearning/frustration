@@ -25,8 +25,12 @@ steps:
     title: 'ಸವಾಲು: ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸಿ'
   - 
     title: ವಿಫಲತೆಗಳ ಜಾಡನ್ನು ಇಡುವುದು
+    completion:
+      - engaged
   - 
     title: ನಿಮ್ಮ ಆಟವನ್ನು ನಿರ್ಮಿಸುವುದು
+    completion:
+      - internal
   - 
     title: 'ಸವಾಲು: ಮೋಸದ ರೀತಿ!'
   - 
