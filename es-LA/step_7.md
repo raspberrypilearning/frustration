@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Desafío: Personalice su juego
+## Desafío: Personaliza tu juego
 
-Junte algunos amigos para probar su juego. Si su juego es demasiado fácil, podría aumentar la dificultad con alguna de estas ideas:
+Llama a algunos amigos para probar tu juego. Si su juego es demasiado fácil, puedes aumentar la dificultad con alguna de estas ideas:
 
-- Alargando su curso;
-- Agregando más curvas a su curso;
+- Alargando tu curso;
+- Agregando más curvas a tu curso;
 - Creando una varita con un espacio más pequeño.
 
 \--- /challenge \---
