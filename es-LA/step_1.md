@@ -4,9 +4,7 @@ Vas a crear un juego en el que los jugadores tienen que guiar una varita a lo la
 
 ** Instrucciones **: Si estás leyendo esto en línea, presiona ** A ** en el micro: bit de abajo para iniciar el juego, y luego toca el pin ** 0 ** para hacer una conexión.
 
-<div class="trinket" style="width:400px;margin: 0 auto;">
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_FEDEdA3v6e64" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
-</div>
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:75%;height:100%;" src="https://makecode.microbit.org/---run?id=_FEDEdA3v6e64" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 Para este proyecto necesitarás algunos elementos adicionales:
 
