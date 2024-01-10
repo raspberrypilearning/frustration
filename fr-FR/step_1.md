@@ -4,9 +4,7 @@ Tu vas faire un jeu dans lequel les joueurs devront guider un baguette le long d
 
 **Instructions** : Si tu lis ceci en ligne , appuie sur **A** sur le micro:bit ci-dessous pour démarrer le jeu, puis touche la broche **0** pour faire une connexion.
 
-<div class="trinket" style="width:400px;margin: 0 auto;">
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_FEDEdA3v6e64" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
-</div>
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:75%;height:100%;" src="https://makecode.microbit.org/---run?id=_FEDEdA3v6e64" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 Pour ce projet, tu auras besoin de quelques éléments supplémentaires :
 
