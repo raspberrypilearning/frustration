@@ -4,9 +4,7 @@ Du wirst ein Spiel bauen, in dem die Spieler einen Zauberstab entlang eines Drah
 
 **Anleitung**: Wenn du dies online liest, drücke **A** auf dem micro:bit unten, um das Spiel zu starten, und berühre dann Pin **0**, um eine Berührung anzuzeigen.
 
-<div class="trinket" style="width:400px;margin: 0 auto;">
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_FEDEdA3v6e64" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
-</div>
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:75%;height:100%;" src="https://makecode.microbit.org/---run?id=_FEDEdA3v6e64" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 Für dieses Projekt benötigst du einige zusätzliche Elemente:
 
