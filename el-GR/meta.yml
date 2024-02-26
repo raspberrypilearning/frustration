@@ -1,0 +1,30 @@
+---
+title: Διαδρομή για γερά νεύρα
+hero_image: images/frustration.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+description: Καθοδήγησε ένα ραβδί κατά μήκος μιας διαδρομής χωρίς να την αγγίξεις.
+original_url: https://codeclubprojects.org/en-GB/microbit/frustration
+interests: games
+technologies: microbit
+site_areas: projects
+hardware: microbit
+software: ''
+version: 3.0.1
+last_tested: 2019-03-06
+steps:
+  - title: Εισαγωγή
+  - title: Αποθήκευση αποτυχιών
+  - title: 'Πρόκληση: Εμφάνιση εικόνας'
+  - title: Καταγράφοντας τις αποτυχίες
+    completion:
+      - engaged
+  - title: Χτίζοντας το παιχνίδι σου
+    completion:
+      - internal
+  - title: 'Πρόκληση: Λειτουργία εξαπάτησης!'
+  - title: 'Πρόκληση: Εξατομίκευσε το παιχνίδι σου'
