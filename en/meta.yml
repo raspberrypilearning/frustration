@@ -28,3 +28,5 @@ steps:
   - internal
 - title: 'Challenge: Cheat mode!'
 - title: 'Challenge: Personalise your game'
+  completion:
+  - external
